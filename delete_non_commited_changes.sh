@@ -1,1 +1,1 @@
-git stash
+git clean -f && git stash
