@@ -1,0 +1,6405 @@
+ФИО: Allen  Miss. Elisabeth Walton
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 885
+Регион покупки: St Louis: MO
+---------
+ФИО: Allison  Master. Hudson Trevor
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 850
+Регион покупки: Montreal: PQ / Chesterville: ON
+---------
+ФИО: Allison  Miss. Helen Loraine
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1034
+Регион покупки: Montreal: PQ / Chesterville: ON
+---------
+ФИО: Allison  Mr. Hudson Joshua Creighton
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 214
+Регион покупки: Montreal: PQ / Chesterville: ON
+---------
+ФИО: Allison  Mrs. Hudson J C (Bessie Waldo Daniels)
+Пол: female
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 993
+Регион покупки: Montreal: PQ / Chesterville: ON
+---------
+ФИО: Anderson  Mr. Harry
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 371
+Регион покупки: New York: NY
+---------
+ФИО: Andrews  Miss. Kornelia Theodosia
+Пол: female
+Возраст: 63
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1126
+Регион покупки: Hudson: NY
+---------
+ФИО: Andrews  Mr. Thomas Jr
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 867
+Регион покупки: Belfast: NI
+---------
+ФИО: Appleton  Mrs. Edward Dale (Charlotte Lamson)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 552
+Регион покупки: Bayside: Queens: NY
+---------
+ФИО: Artagaveytia  Mr. Ramon
+Пол: male
+Возраст: 71
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 926
+Регион покупки: Montevideo: Uruguay
+---------
+ФИО: Astor  Col. John Jacob
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 100
+Регион покупки: New York: NY
+---------
+ФИО: Astor  Mrs. John Jacob (Madeleine Talmadge Force)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 254
+Регион покупки: New York: NY
+---------
+ФИО: Aubart  Mme. Leontine Pauline
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 587
+Регион покупки: Paris: France
+---------
+ФИО: Barber  Miss. Ellen "Nellie"
+Пол: female
+Возраст: 26
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1009
+Регион покупки: -
+---------
+ФИО: Barkworth  Mr. Algernon Henry Wilson
+Пол: male
+Возраст: 80
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 723
+Регион покупки: Hessle: Yorks
+---------
+ФИО: Baumann  Mr. John D
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 185
+Регион покупки: New York: NY
+---------
+ФИО: Baxter  Mr. Quigg Edmond
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 427
+Регион покупки: Montreal: PQ
+---------
+ФИО: Baxter  Mrs. James (Helene DeLaudeniere Chaput)
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 950
+Регион покупки: Montreal: PQ
+---------
+ФИО: Bazzani  Miss. Albina
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1059
+Регион покупки: -
+---------
+ФИО: Beattie  Mr. Thomson
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 278
+Регион покупки: Winnipeg: MN
+---------
+ФИО: Beckwith  Mr. Richard Leonard
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 820
+Регион покупки: New York: NY
+---------
+ФИО: Beckwith  Mrs. Richard Leonard (Sallie Monypeny)
+Пол: female
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 472
+Регион покупки: New York: NY
+---------
+ФИО: Behr  Mr. Karl Howell
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1252
+Регион покупки: New York: NY
+---------
+ФИО: Bidois  Miss. Rosalie
+Пол: female
+Возраст: 42
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1317
+Регион покупки: -
+---------
+ФИО: Bird  Miss. Ellen
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 392
+Регион покупки: -
+---------
+ФИО: Birnbaum  Mr. Jakob
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 997
+Регион покупки: San Francisco: CA
+---------
+ФИО: Bishop  Mr. Dickinson H
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 950
+Регион покупки: Dowagiac: MI
+---------
+ФИО: Bishop  Mrs. Dickinson H (Helen Walton)
+Пол: female
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 967
+Регион покупки: Dowagiac: MI
+---------
+ФИО: Bissette  Miss. Amelia
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1025
+Регион покупки: -
+---------
+ФИО: Bjornstrom-Steffansson  Mr. Mauritz Hakan
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 201
+Регион покупки: Stockholm: Sweden / Washington: DC
+---------
+ФИО: Blackwell  Mr. Stephen Weart
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 735
+Регион покупки: Trenton: NJ
+---------
+ФИО: Blank  Mr. Henry
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 149
+Регион покупки: Glen Ridge: NJ
+---------
+ФИО: Bonnell  Miss. Caroline
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 371
+Регион покупки: Youngstown: OH
+---------
+ФИО: Bonnell  Miss. Elizabeth
+Пол: female
+Возраст: 58
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 784
+Регион покупки: Birkdale: England Cleveland: Ohio
+---------
+ФИО: Borebank  Mr. John James
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1253
+Регион покупки: London / Winnipeg: MB
+---------
+ФИО: Bowen  Miss. Grace Scott
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 913
+Регион покупки: Cooperstown: NY
+---------
+ФИО: Bowerman  Miss. Elsie Edith
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 882
+Регион покупки: St Leonards-on-Sea: England Ohio
+---------
+ФИО: Bradley  Mr. George ("George Arthur Brayton")
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 40
+Регион покупки: Los Angeles: CA
+---------
+ФИО: Brady  Mr. John Bertram
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 658
+Регион покупки: Pomeroy: WA
+---------
+ФИО: Brandeis  Mr. Emil
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 260
+Регион покупки: Omaha: NE
+---------
+ФИО: Brewe  Dr. Arthur Jackson
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1172
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Brown  Mrs. James Joseph (Margaret Tobin)
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 374
+Регион покупки: Denver: CO
+---------
+ФИО: Brown  Mrs. John Murray (Caroline Lane Lamson)
+Пол: female
+Возраст: 59
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1410
+Регион покупки: Belmont: MA
+---------
+ФИО: Bucknell  Mrs. William Robert (Emma Eliza Ward)
+Пол: female
+Возраст: 60
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 504
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Burns  Miss. Elizabeth Margaret
+Пол: female
+Возраст: 41
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 564
+Регион покупки: -
+---------
+ФИО: Butt  Major. Archibald Willingham
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 121
+Регион покупки: Washington: DC
+---------
+ФИО: Cairns  Mr. Alexander
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1007
+Регион покупки: -
+---------
+ФИО: Calderhead  Mr. Edward Pennington
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 220
+Регион покупки: New York: NY
+---------
+ФИО: Candee  Mrs. Edward (Helen Churchill Hungerford)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 329
+Регион покупки: Washington: DC
+---------
+ФИО: Cardeza  Mr. Thomas Drake Martinez
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 449
+Регион покупки: Austria-Hungary / Germantown: Philadelphia: PA
+---------
+ФИО: Cardeza  Mrs. James Warburton Martinez (Charlotte Wardle Drake)
+Пол: female
+Возраст: 58
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 500
+Регион покупки: Germantown: Philadelphia: PA
+---------
+ФИО: Carlsson  Mr. Frans Olof
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1057
+Регион покупки: New York: NY
+---------
+ФИО: Carrau  Mr. Francisco M
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1365
+Регион покупки: Montevideo: Uruguay
+---------
+ФИО: Carrau  Mr. Jose Pedro
+Пол: male
+Возраст: 17
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 829
+Регион покупки: Montevideo: Uruguay
+---------
+ФИО: Carter  Master. William Thornton II
+Пол: male
+Возраст: 11
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1392
+Регион покупки: Bryn Mawr: PA
+---------
+ФИО: Carter  Miss. Lucile Polk
+Пол: female
+Возраст: 14
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 557
+Регион покупки: Bryn Mawr: PA
+---------
+ФИО: Carter  Mr. William Ernest
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 87
+Регион покупки: Bryn Mawr: PA
+---------
+ФИО: Carter  Mrs. William Ernest (Lucile Polk)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 665
+Регион покупки: Bryn Mawr: PA
+---------
+ФИО: Case  Mr. Howard Brown
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1034
+Регион покупки: Ascot: Berkshire / Rochester: NY
+---------
+ФИО: Cassebeer  Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1282
+Регион покупки: New York: NY
+---------
+ФИО: Cavendish  Mr. Tyrell William
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1496
+Регион покупки: Little Onn Hall: Staffs
+---------
+ФИО: Cavendish  Mrs. Tyrell William (Julia Florence Siegel)
+Пол: female
+Возраст: 76
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1332
+Регион покупки: Little Onn Hall: Staffs
+---------
+ФИО: Chaffee  Mr. Herbert Fuller
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1330
+Регион покупки: Amenia: ND
+---------
+ФИО: Chaffee  Mrs. Herbert Fuller (Carrie Constance Toogood)
+Пол: female
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1044
+Регион покупки: Amenia: ND
+---------
+ФИО: Chambers  Mr. Norman Campbell
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1120
+Регион покупки: New York: NY / Ithaca: NY
+---------
+ФИО: Chambers  Mrs. Norman Campbell (Bertha Griggs)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 242
+Регион покупки: New York: NY / Ithaca: NY
+---------
+ФИО: Chaudanson  Miss. Victorine
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1210
+Регион покупки: -
+---------
+ФИО: Cherry  Miss. Gladys
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1424
+Регион покупки: London: England
+---------
+ФИО: Chevre  Mr. Paul Romaine
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 305
+Регион покупки: Paris: France
+---------
+ФИО: Chibnall  Mrs. (Edith Martha Bowerman)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 496
+Регион покупки: St Leonards-on-Sea: England Ohio
+---------
+ФИО: Chisholm  Mr. Roderick Robert Crispin
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 60
+Регион покупки: Liverpool: England / Belfast
+---------
+ФИО: Clark  Mr. Walter Miller
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1338
+Регион покупки: Los Angeles: CA
+---------
+ФИО: Clark  Mrs. Walter Miller (Virginia McDowell)
+Пол: female
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1192
+Регион покупки: Los Angeles: CA
+---------
+ФИО: Cleaver  Miss. Alice
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1337
+Регион покупки: -
+---------
+ФИО: Clifford  Mr. George Quincy
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 57
+Регион покупки: Stoughton: MA
+---------
+ФИО: Colley  Mr. Edward Pomeroy
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1074
+Регион покупки: Victoria: BC
+---------
+ФИО: Compton  Miss. Sara Rebecca
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 366
+Регион покупки: Lakewood: NJ
+---------
+ФИО: Compton  Mr. Alexander Taylor Jr
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1168
+Регион покупки: Lakewood: NJ
+---------
+ФИО: Compton  Mrs. Alexander Taylor (Mary Eliza Ingersoll)
+Пол: female
+Возраст: 64
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 698
+Регион покупки: Lakewood: NJ
+---------
+ФИО: Cornell  Mrs. Robert Clifford (Malvina Helen Lamson)
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1169
+Регион покупки: New York: NY
+---------
+ФИО: Crafton  Mr. John Bertram
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1407
+Регион покупки: Roachdale: IN
+---------
+ФИО: Crosby  Capt. Edward Gifford
+Пол: male
+Возраст: 70
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 707
+Регион покупки: Milwaukee: WI
+---------
+ФИО: Crosby  Miss. Harriet R
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 919
+Регион покупки: Milwaukee: WI
+---------
+ФИО: Crosby  Mrs. Edward Gifford (Catherine Elizabeth Halstead)
+Пол: female
+Возраст: 64
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 891
+Регион покупки: Milwaukee: WI
+---------
+ФИО: Cumings  Mr. John Bradley
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 547
+Регион покупки: New York: NY
+---------
+ФИО: Cumings  Mrs. John Bradley (Florence Briggs Thayer)
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 977
+Регион покупки: New York: NY
+---------
+ФИО: Daly  Mr. Peter Denis 
+Пол: male
+Возраст: 51
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 58
+Регион покупки: Lima: Peru
+---------
+ФИО: Daniel  Mr. Robert Williams
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 443
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Daniels  Miss. Sarah
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 210
+Регион покупки: -
+---------
+ФИО: Davidson  Mr. Thornton
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1330
+Регион покупки: Montreal: PQ
+---------
+ФИО: Davidson  Mrs. Thornton (Orian Hays)
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 392
+Регион покупки: Montreal: PQ
+---------
+ФИО: Dick  Mr. Albert Adrian
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 793
+Регион покупки: Calgary: AB
+---------
+ФИО: Dick  Mrs. Albert Adrian (Vera Gillespie)
+Пол: female
+Возраст: 17
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 234
+Регион покупки: Calgary: AB
+---------
+ФИО: Dodge  Dr. Washington
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 443
+Регион покупки: San Francisco: CA
+---------
+ФИО: Dodge  Master. Washington
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1250
+Регион покупки: San Francisco: CA
+---------
+ФИО: Dodge  Mrs. Washington (Ruth Vidaver)
+Пол: female
+Возраст: 54
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 123
+Регион покупки: San Francisco: CA
+---------
+ФИО: Douglas  Mr. Walter Donald
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 126
+Регион покупки: Deephaven: MN / Cedar Rapids: IA
+---------
+ФИО: Douglas  Mrs. Frederick Charles (Mary Helene Baxter)
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 624
+Регион покупки: Montreal: PQ
+---------
+ФИО: Douglas  Mrs. Walter Donald (Mahala Dutton)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 104
+Регион покупки: Deephaven: MN / Cedar Rapids: IA
+---------
+ФИО: Duff Gordon  Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1402
+Регион покупки: London / Paris
+---------
+ФИО: Duff Gordon  Sir. Cosmo Edmund ("Mr Morgan")
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 597
+Регион покупки: London / Paris
+---------
+ФИО: Dulles  Mr. William Crothers
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1144
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Earnshaw  Mrs. Boulton (Olive Potter)
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 789
+Регион покупки: Mt Airy: Philadelphia: PA
+---------
+ФИО: Endres  Miss. Caroline Louise
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1377
+Регион покупки: New York: NY
+---------
+ФИО: Eustis  Miss. Elizabeth Mussey
+Пол: female
+Возраст: 54
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 60
+Регион покупки: Brookline: MA
+---------
+ФИО: Evans  Miss. Edith Corse
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1395
+Регион покупки: New York: NY
+---------
+ФИО: Farthing  Mr. John
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1279
+Регион покупки: -
+---------
+ФИО: Flegenheim  Mrs. Alfred (Antoinette)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 654
+Регион покупки: New York: NY
+---------
+ФИО: Fleming  Miss. Margaret
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 859
+Регион покупки: -
+---------
+ФИО: Flynn  Mr. John Irwin ("Irving")
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 115
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Foreman  Mr. Benjamin Laventall
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 47
+Регион покупки: New York: NY
+---------
+ФИО: Fortune  Miss. Alice Elizabeth
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1201
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Fortune  Miss. Ethel Flora
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 714
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Fortune  Miss. Mabel Helen
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 143
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Fortune  Mr. Charles Alexander
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 34
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Fortune  Mr. Mark
+Пол: male
+Возраст: 64
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1281
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Fortune  Mrs. Mark (Mary McDougald)
+Пол: female
+Возраст: 60
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 572
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Francatelli  Miss. Laura Mabel
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1185
+Регион покупки: -
+---------
+ФИО: Franklin  Mr. Thomas Parham
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1349
+Регион покупки: Westcliff-on-Sea: Essex
+---------
+ФИО: Frauenthal  Dr. Henry William
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 720
+Регион покупки: New York: NY
+---------
+ФИО: Frauenthal  Mr. Isaac Gerald
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 972
+Регион покупки: New York: NY
+---------
+ФИО: Frauenthal  Mrs. Henry William (Clara Heinsheimer)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 413
+Регион покупки: New York: NY
+---------
+ФИО: Frolicher  Miss. Hedwig Margaritha
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 178
+Регион покупки: Zurich: Switzerland
+---------
+ФИО: Frolicher-Stehli  Mr. Maxmillian
+Пол: male
+Возраст: 60
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 268
+Регион покупки: Zurich: Switzerland
+---------
+ФИО: Frolicher-Stehli  Mrs. Maxmillian (Margaretha Emerentia Stehli)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 844
+Регион покупки: Zurich: Switzerland
+---------
+ФИО: Fry  Mr. Richard
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1455
+Регион покупки: -
+---------
+ФИО: Futrelle  Mr. Jacques Heath
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1189
+Регион покупки: Scituate: MA
+---------
+ФИО: Futrelle  Mrs. Jacques Heath (Lily May Peel)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1390
+Регион покупки: Scituate: MA
+---------
+ФИО: Gee  Mr. Arthur H
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 969
+Регион покупки: St Anne's-on-Sea: Lancashire
+---------
+ФИО: Geiger  Miss. Amalie
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 950
+Регион покупки: -
+---------
+ФИО: Gibson  Miss. Dorothy Winifred
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 317
+Регион покупки: New York: NY
+---------
+ФИО: Gibson  Mrs. Leonard (Pauline C Boeson)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1204
+Регион покупки: New York: NY
+---------
+ФИО: Giglio  Mr. Victor
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 337
+Регион покупки: -
+---------
+ФИО: Goldenberg  Mr. Samuel L
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 684
+Регион покупки: Paris: France / New York: NY
+---------
+ФИО: Goldenberg  Mrs. Samuel L (Edwiga Grabowska)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 395
+Регион покупки: Paris: France / New York: NY
+---------
+ФИО: Goldschmidt  Mr. George B
+Пол: male
+Возраст: 71
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 976
+Регион покупки: New York: NY
+---------
+ФИО: Gracie  Col. Archibald IV
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 170
+Регион покупки: Washington: DC
+---------
+ФИО: Graham  Miss. Margaret Edith
+Пол: female
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 63
+Регион покупки: Greenwich: CT
+---------
+ФИО: Graham  Mr. George Edward
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 340
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Graham  Mrs. William Thompson (Edith Junkins)
+Пол: female
+Возраст: 58
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 46
+Регион покупки: Greenwich: CT
+---------
+ФИО: Greenfield  Mr. William Bertram
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 308
+Регион покупки: New York: NY
+---------
+ФИО: Greenfield  Mrs. Leo David (Blanche Strouse)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 567
+Регион покупки: New York: NY
+---------
+ФИО: Guggenheim  Mr. Benjamin
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 822
+Регион покупки: New York: NY
+---------
+ФИО: Harder  Mr. George Achilles
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 550
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Harder  Mrs. George Achilles (Dorothy Annan)
+Пол: female
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1423
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Harper  Mr. Henry Sleeper
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 917
+Регион покупки: New York: NY
+---------
+ФИО: Harper  Mrs. Henry Sleeper (Myna Haxtun)
+Пол: female
+Возраст: 49
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 84
+Регион покупки: New York: NY
+---------
+ФИО: Harrington  Mr. Charles H
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 907
+Регион покупки: -
+---------
+ФИО: Harris  Mr. Henry Birkhardt
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 876
+Регион покупки: New York: NY
+---------
+ФИО: Harris  Mrs. Henry Birkhardt (Irene Wallach)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1254
+Регион покупки: New York: NY
+---------
+ФИО: Harrison  Mr. William
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 486
+Регион покупки: -
+---------
+ФИО: Hassab  Mr. Hammad
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1360
+Регион покупки: -
+---------
+ФИО: Hawksford  Mr. Walter James
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 639
+Регион покупки: Kingston: Surrey
+---------
+ФИО: Hays  Miss. Margaret Bechstein
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 589
+Регион покупки: New York: NY
+---------
+ФИО: Hays  Mr. Charles Melville
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1279
+Регион покупки: Montreal: PQ
+---------
+ФИО: Hays  Mrs. Charles Melville (Clara Jennings Gregg)
+Пол: female
+Возраст: 52
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 144
+Регион покупки: Montreal: PQ
+---------
+ФИО: Head  Mr. Christopher
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 452
+Регион покупки: London / Middlesex
+---------
+ФИО: Hilliard  Mr. Herbert Henry
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 627
+Регион покупки: Brighton: MA
+---------
+ФИО: Hipkins  Mr. William Edward
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1178
+Регион покупки: London / Birmingham
+---------
+ФИО: Hippach  Miss. Jean Gertrude
+Пол: female
+Возраст: 16
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 521
+Регион покупки: Chicago: IL
+---------
+ФИО: Hippach  Mrs. Louis Albert (Ida Sophia Fischer)
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1425
+Регион покупки: Chicago: IL
+---------
+ФИО: Hogeboom  Mrs. John C (Anna Andrews)
+Пол: female
+Возраст: 51
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 405
+Регион покупки: Hudson: NY
+---------
+ФИО: Holverson  Mr. Alexander Oskar
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1087
+Регион покупки: New York: NY
+---------
+ФИО: Holverson  Mrs. Alexander Oskar (Mary Aline Towner)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 308
+Регион покупки: New York: NY
+---------
+ФИО: Homer  Mr. Harry ("Mr E Haven")
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 111
+Регион покупки: Indianapolis: IN
+---------
+ФИО: Hoyt  Mr. Frederick Maxfield
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1430
+Регион покупки: New York: NY /  Stamford CT
+---------
+ФИО: Hoyt  Mr. William Fisher
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1316
+Регион покупки: New York: NY
+---------
+ФИО: Hoyt  Mrs. Frederick Maxfield (Jane Anne Forby)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 769
+Регион покупки: New York: NY /  Stamford CT
+---------
+ФИО: Icard  Miss. Amelie
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 189
+Регион покупки: -
+---------
+ФИО: Isham  Miss. Ann Elizabeth
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 48
+Регион покупки: Paris: France New York: NY
+---------
+ФИО: Ismay  Mr. Joseph Bruce
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 119
+Регион покупки: Liverpool
+---------
+ФИО: Jones  Mr. Charles Cresson
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1244
+Регион покупки: Bennington: VT
+---------
+ФИО: Julian  Mr. Henry Forbes
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 285
+Регион покупки: London
+---------
+ФИО: Keeping  Mr. Edwin
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 716
+Регион покупки: -
+---------
+ФИО: Kent  Mr. Edward Austin
+Пол: male
+Возраст: 58
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 701
+Регион покупки: Buffalo: NY
+---------
+ФИО: Kenyon  Mr. Frederick R
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 900
+Регион покупки: Southington / Noank: CT
+---------
+ФИО: Kenyon  Mrs. Frederick R (Marion)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 730
+Регион покупки: Southington / Noank: CT
+---------
+ФИО: Kimball  Mr. Edwin Nelson Jr
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1135
+Регион покупки: Boston: MA
+---------
+ФИО: Kimball  Mrs. Edwin Nelson Jr (Gertrude Parsons)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1179
+Регион покупки: Boston: MA
+---------
+ФИО: Klaber  Mr. Herman
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 208
+Регион покупки: Portland: OR
+---------
+ФИО: Kreuchen  Miss. Emilie
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1368
+Регион покупки: -
+---------
+ФИО: Leader  Dr. Alice (Farnham)
+Пол: female
+Возраст: 49
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 313
+Регион покупки: New York: NY
+---------
+ФИО: LeRoy  Miss. Bertha
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1370
+Регион покупки: -
+---------
+ФИО: Lesurer  Mr. Gustave J
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1224
+Регион покупки: -
+---------
+ФИО: Lewy  Mr. Ervin G
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 616
+Регион покупки: Chicago: IL
+---------
+ФИО: Lindeberg-Lind  Mr. Erik Gustaf ("Mr Edward Lingrey")
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 889
+Регион покупки: Stockholm: Sweden
+---------
+ФИО: Lindstrom  Mrs. Carl Johan (Sigrid Posse)
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1461
+Регион покупки: Stockholm: Sweden
+---------
+ФИО: Lines  Miss. Mary Conover
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1369
+Регион покупки: Paris: France
+---------
+ФИО: Lines  Mrs. Ernest H (Elizabeth Lindsey James)
+Пол: female
+Возраст: 51
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 663
+Регион покупки: Paris: France
+---------
+ФИО: Long  Mr. Milton Clyde
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 542
+Регион покупки: Springfield: MA
+---------
+ФИО: Longley  Miss. Gretchen Fiske
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 598
+Регион покупки: Hudson: NY
+---------
+ФИО: Loring  Mr. Joseph Holland
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 716
+Регион покупки: London / New York: NY
+---------
+ФИО: Lurette  Miss. Elise
+Пол: female
+Возраст: 58
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 417
+Регион покупки: -
+---------
+ФИО: Madill  Miss. Georgette Alexandra
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 461
+Регион покупки: St Louis: MO
+---------
+ФИО: Maguire  Mr. John Edward
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 180
+Регион покупки: Brockton: MA
+---------
+ФИО: Maioni  Miss. Roberta
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 87
+Регион покупки: -
+---------
+ФИО: Marechal  Mr. Pierre
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1160
+Регион покупки: Paris: France
+---------
+ФИО: Marvin  Mr. Daniel Warner
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1139
+Регион покупки: New York: NY
+---------
+ФИО: Marvin  Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 170
+Регион покупки: New York: NY
+---------
+ФИО: Mayne  Mlle. Berthe Antonine ("Mrs de Villiers")
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1232
+Регион покупки: Belgium  Montreal: PQ
+---------
+ФИО: McCaffry  Mr. Thomas Francis
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1161
+Регион покупки: Vancouver: BC
+---------
+ФИО: McCarthy  Mr. Timothy J
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1113
+Регион покупки: Dorchester: MA
+---------
+ФИО: McGough  Mr. James Robert
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 523
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Meyer  Mr. Edgar Joseph
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 161
+Регион покупки: New York: NY
+---------
+ФИО: Meyer  Mrs. Edgar Joseph (Leila Saks)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 815
+Регион покупки: New York: NY
+---------
+ФИО: Millet  Mr. Francis Davis
+Пол: male
+Возраст: 65
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 501
+Регион покупки: East Bridgewater: MA
+---------
+ФИО: Minahan  Dr. William Edward
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 946
+Регион покупки: Fond du Lac: WI
+---------
+ФИО: Minahan  Miss. Daisy E
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 734
+Регион покупки: Green Bay: WI
+---------
+ФИО: Minahan  Mrs. William Edward (Lillian E Thorpe)
+Пол: female
+Возраст: 37
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 64
+Регион покупки: Fond du Lac: WI
+---------
+ФИО: Mock  Mr. Philipp Edmund
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 704
+Регион покупки: New York: NY
+---------
+ФИО: Molson  Mr. Harry Markland
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1036
+Регион покупки: Montreal: PQ
+---------
+ФИО: Moore  Mr. Clarence Bloomfield
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1151
+Регион покупки: Washington: DC
+---------
+ФИО: Natsch  Mr. Charles H
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 296
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Newell  Miss. Madeleine
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 380
+Регион покупки: Lexington: MA
+---------
+ФИО: Newell  Miss. Marjorie
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1266
+Регион покупки: Lexington: MA
+---------
+ФИО: Newell  Mr. Arthur Webster
+Пол: male
+Возраст: 58
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 750
+Регион покупки: Lexington: MA
+---------
+ФИО: Newsom  Miss. Helen Monypeny
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 892
+Регион покупки: New York: NY
+---------
+ФИО: Nicholson  Mr. Arthur Ernest
+Пол: male
+Возраст: 64
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 927
+Регион покупки: Isle of Wight: England
+---------
+ФИО: Oliva y Ocana  Dona. Fermina
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 769
+Регион покупки: -
+---------
+ФИО: Omont  Mr. Alfred Fernand
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 82
+Регион покупки: Paris: France
+---------
+ФИО: Ostby  Miss. Helene Ragnhild
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 867
+Регион покупки: Providence: RI
+---------
+ФИО: Ostby  Mr. Engelhart Cornelius
+Пол: male
+Возраст: 65
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 60
+Регион покупки: Providence: RI
+---------
+ФИО: Ovies y Rodriguez  Mr. Servando
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 141
+Регион покупки: ?Havana: Cuba
+---------
+ФИО: Parr  Mr. William Henry Marsh
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1079
+Регион покупки: Belfast
+---------
+ФИО: Partner  Mr. Austen
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1235
+Регион покупки: Surbiton Hill: Surrey
+---------
+ФИО: Payne  Mr. Vivian Ponsonby
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 67
+Регион покупки: Montreal: PQ
+---------
+ФИО: Pears  Mr. Thomas Clinton
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1182
+Регион покупки: Isleworth: England
+---------
+ФИО: Pears  Mrs. Thomas (Edith Wearne)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 365
+Регион покупки: Isleworth: England
+---------
+ФИО: Penasco y Castellana  Mr. Victor de Satode
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 740
+Регион покупки: Madrid: Spain
+---------
+ФИО: Penasco y Castellana  Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 98
+Регион покупки: Madrid: Spain
+---------
+ФИО: Perreault  Miss. Anne
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1159
+Регион покупки: -
+---------
+ФИО: Peuchen  Major. Arthur Godfrey
+Пол: male
+Возраст: 52
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 845
+Регион покупки: Toronto: ON
+---------
+ФИО: Porter  Mr. Walter Chamberlain
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 223
+Регион покупки: Worcester: MA
+---------
+ФИО: Potter  Mrs. Thomas Jr (Lily Alexenia Wilson)
+Пол: female
+Возраст: 56
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1415
+Регион покупки: Mt Airy: Philadelphia: PA
+---------
+ФИО: Reuchlin  Jonkheer. John George
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 354
+Регион покупки: Rotterdam: Netherlands
+---------
+ФИО: Rheims  Mr. George Alexander Lucien
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1071
+Регион покупки: Paris /  New York: NY
+---------
+ФИО: Ringhini  Mr. Sante
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1006
+Регион покупки: -
+---------
+ФИО: Robbins  Mr. Victor
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1266
+Регион покупки: -
+---------
+ФИО: Robert  Mrs. Edward Scott (Elisabeth Walton McMillan)
+Пол: female
+Возраст: 43
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 187
+Регион покупки: St Louis: MO
+---------
+ФИО: Roebling  Mr. Washington Augustus II
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 738
+Регион покупки: Trenton: NJ
+---------
+ФИО: Romaine  Mr. Charles Hallace ("Mr C Rolmane")
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 434
+Регион покупки: New York: NY
+---------
+ФИО: Rood  Mr. Hugh Roscoe
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 120
+Регион покупки: Seattle: WA
+---------
+ФИО: Rosenbaum  Miss. Edith Louise
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1166
+Регион покупки: Paris: France
+---------
+ФИО: Rosenshine  Mr. George ("Mr George Thorne")
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 181
+Регион покупки: New York: NY
+---------
+ФИО: Ross  Mr. John Hugo
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 709
+Регион покупки: Winnipeg: MB
+---------
+ФИО: Rothes  the Countess. of (Lucy Noel Martha Dyer-Edwards)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1415
+Регион покупки: London  Vancouver: BC
+---------
+ФИО: Rothschild  Mr. Martin
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 823
+Регион покупки: New York: NY
+---------
+ФИО: Rothschild  Mrs. Martin (Elizabeth L. Barrett)
+Пол: female
+Возраст: 54
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 507
+Регион покупки: New York: NY
+---------
+ФИО: Rowe  Mr. Alfred G
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 756
+Регион покупки: London
+---------
+ФИО: Ryerson  Master. John Borie
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1226
+Регион покупки: Haverford: PA / Cooperstown: NY
+---------
+ФИО: Ryerson  Miss. Emily Borie
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1118
+Регион покупки: Haverford: PA / Cooperstown: NY
+---------
+ФИО: Ryerson  Miss. Susan Parker "Suzette"
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1301
+Регион покупки: Haverford: PA / Cooperstown: NY
+---------
+ФИО: Ryerson  Mr. Arthur Larned
+Пол: male
+Возраст: 61
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 605
+Регион покупки: Haverford: PA / Cooperstown: NY
+---------
+ФИО: Ryerson  Mrs. Arthur Larned (Emily Maria Borie)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 310
+Регион покупки: Haverford: PA / Cooperstown: NY
+---------
+ФИО: Saalfeld  Mr. Adolphe
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1389
+Регион покупки: Manchester: England
+---------
+ФИО: Sagesser  Mlle. Emma
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 489
+Регион покупки: -
+---------
+ФИО: Salomon  Mr. Abraham L
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 407
+Регион покупки: New York: NY
+---------
+ФИО: Schabert  Mrs. Paul (Emma Mock)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 841
+Регион покупки: New York: NY
+---------
+ФИО: Serepeca  Miss. Augusta
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 165
+Регион покупки: -
+---------
+ФИО: Seward  Mr. Frederic Kimber
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 194
+Регион покупки: New York: NY
+---------
+ФИО: Shutes  Miss. Elizabeth W
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 498
+Регион покупки: New York: NY / Greenwich CT
+---------
+ФИО: Silverthorne  Mr. Spencer Victor
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1087
+Регион покупки: St Louis: MO
+---------
+ФИО: Silvey  Mr. William Baird
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 661
+Регион покупки: Duluth: MN
+---------
+ФИО: Silvey  Mrs. William Baird (Alice Munger)
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 534
+Регион покупки: Duluth: MN
+---------
+ФИО: Simonius-Blumer  Col. Oberst Alfons
+Пол: male
+Возраст: 56
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 342
+Регион покупки: Basel: Switzerland
+---------
+ФИО: Sloper  Mr. William Thompson
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 852
+Регион покупки: New Britain: CT
+---------
+ФИО: Smart  Mr. John Montgomery
+Пол: male
+Возраст: 56
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 902
+Регион покупки: New York: NY
+---------
+ФИО: Smith  Mr. James Clinch
+Пол: male
+Возраст: 56
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 677
+Регион покупки: St James: Long Island: NY
+---------
+ФИО: Smith  Mr. Lucien Philip
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 467
+Регион покупки: Huntington: WV
+---------
+ФИО: Smith  Mr. Richard William
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 824
+Регион покупки: Streatham: Surrey
+---------
+ФИО: Smith  Mrs. Lucien Philip (Mary Eloise Hughes)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1267
+Регион покупки: Huntington: WV
+---------
+ФИО: Snyder  Mr. John Pillsbury
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1402
+Регион покупки: Minneapolis: MN
+---------
+ФИО: Snyder  Mrs. John Pillsbury (Nelle Stevenson)
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 534
+Регион покупки: Minneapolis: MN
+---------
+ФИО: Spedden  Master. Robert Douglas
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 591
+Регион покупки: Tuxedo Park: NY
+---------
+ФИО: Spedden  Mr. Frederic Oakley
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 786
+Регион покупки: Tuxedo Park: NY
+---------
+ФИО: Spedden  Mrs. Frederic Oakley (Margaretta Corning Stone)
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 312
+Регион покупки: Tuxedo Park: NY
+---------
+ФИО: Spencer  Mr. William Augustus
+Пол: male
+Возраст: 57
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 664
+Регион покупки: Paris: France
+---------
+ФИО: Spencer  Mrs. William Augustus (Marie Eugenie)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 778
+Регион покупки: Paris: France
+---------
+ФИО: Stahelin-Maeglin  Dr. Max
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 203
+Регион покупки: Basel: Switzerland
+---------
+ФИО: Stead  Mr. William Thomas
+Пол: male
+Возраст: 62
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1190
+Регион покупки: Wimbledon Park: London / Hayling Island: Hants
+---------
+ФИО: Stengel  Mr. Charles Emil Henry
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 280
+Регион покупки: Newark: NJ
+---------
+ФИО: Stengel  Mrs. Charles Emil Henry (Annie May Morris)
+Пол: female
+Возраст: 43
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 918
+Регион покупки: Newark: NJ
+---------
+ФИО: Stephenson  Mrs. Walter Bertram (Martha Eustis)
+Пол: female
+Возраст: 52
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 672
+Регион покупки: Haverford: PA
+---------
+ФИО: Stewart  Mr. Albert A
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1118
+Регион покупки: Gallipolis: Ohio / ? Paris / New York
+---------
+ФИО: Stone  Mrs. George Nelson (Martha Evelyn)
+Пол: female
+Возраст: 62
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 951
+Регион покупки: Cincinatti: OH
+---------
+ФИО: Straus  Mr. Isidor
+Пол: male
+Возраст: 67
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 938
+Регион покупки: New York: NY
+---------
+ФИО: Straus  Mrs. Isidor (Rosalie Ida Blun)
+Пол: female
+Возраст: 63
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 791
+Регион покупки: New York: NY
+---------
+ФИО: Sutton  Mr. Frederick
+Пол: male
+Возраст: 61
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 869
+Регион покупки: Haddenfield: NJ
+---------
+ФИО: Swift  Mrs. Frederick Joel (Margaret Welles Barron)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 804
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Taussig  Miss. Ruth
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 253
+Регион покупки: New York: NY
+---------
+ФИО: Taussig  Mr. Emil
+Пол: male
+Возраст: 52
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 45
+Регион покупки: New York: NY
+---------
+ФИО: Taussig  Mrs. Emil (Tillie Mandelbaum)
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 751
+Регион покупки: New York: NY
+---------
+ФИО: Taylor  Mr. Elmer Zebley
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 716
+Регион покупки: London /  East Orange: NJ
+---------
+ФИО: Taylor  Mrs. Elmer Zebley (Juliet Cummins Wright)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 202
+Регион покупки: London /  East Orange: NJ
+---------
+ФИО: Thayer  Mr. John Borland
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 241
+Регион покупки: Haverford: PA
+---------
+ФИО: Thayer  Mr. John Borland Jr
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1066
+Регион покупки: Haverford: PA
+---------
+ФИО: Thayer  Mrs. John Borland (Marian Longstreth Morris)
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 841
+Регион покупки: Haverford: PA
+---------
+ФИО: Thorne  Mrs. Gertrude Maybelle
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 168
+Регион покупки: New York: NY
+---------
+ФИО: Tucker  Mr. Gilbert Milligan Jr
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1278
+Регион покупки: Albany: NY
+---------
+ФИО: Uruchurtu  Don. Manuel E
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1296
+Регион покупки: Mexico City: Mexico
+---------
+ФИО: Van der hoef  Mr. Wyckoff
+Пол: male
+Возраст: 61
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1199
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Walker  Mr. William Anderson
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1195
+Регион покупки: East Orange: NJ
+---------
+ФИО: Ward  Miss. Anna
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1017
+Регион покупки: -
+---------
+ФИО: Warren  Mr. Frank Manley
+Пол: male
+Возраст: 64
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1290
+Регион покупки: Portland: OR
+---------
+ФИО: Warren  Mrs. Frank Manley (Anna Sophia Atkinson)
+Пол: female
+Возраст: 60
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1165
+Регион покупки: Portland: OR
+---------
+ФИО: Weir  Col. John
+Пол: male
+Возраст: 60
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 402
+Регион покупки: England Salt Lake City: Utah
+---------
+ФИО: White  Mr. Percival Wayland
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1360
+Регион покупки: Brunswick: ME
+---------
+ФИО: White  Mr. Richard Frasar
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 412
+Регион покупки: Brunswick: ME
+---------
+ФИО: White  Mrs. John Stuart (Ella Holmes)
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 484
+Регион покупки: New York: NY / Briarcliff Manor NY
+---------
+ФИО: Wick  Miss. Mary Natalie
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 645
+Регион покупки: Youngstown: OH
+---------
+ФИО: Wick  Mr. George Dennick
+Пол: male
+Возраст: 57
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1346
+Регион покупки: Youngstown: OH
+---------
+ФИО: Wick  Mrs. George Dennick (Mary Hitchcock)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 816
+Регион покупки: Youngstown: OH
+---------
+ФИО: Widener  Mr. George Dunton
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 688
+Регион покупки: Elkins Park: PA
+---------
+ФИО: Widener  Mr. Harry Elkins
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 459
+Регион покупки: Elkins Park: PA
+---------
+ФИО: Widener  Mrs. George Dunton (Eleanor Elkins)
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 929
+Регион покупки: Elkins Park: PA
+---------
+ФИО: Willard  Miss. Constance
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 388
+Регион покупки: Duluth: MN
+---------
+ФИО: Williams  Mr. Charles Duane
+Пол: male
+Возраст: 51
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 404
+Регион покупки: Geneva: Switzerland / Radnor: PA
+---------
+ФИО: Williams  Mr. Richard Norris II
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1051
+Регион покупки: Geneva: Switzerland / Radnor: PA
+---------
+ФИО: Williams-Lambert  Mr. Fletcher Fellows
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 440
+Регион покупки: London: England
+---------
+ФИО: Wilson  Miss. Helen Alice
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 298
+Регион покупки: -
+---------
+ФИО: Woolner  Mr. Hugh
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1458
+Регион покупки: London: England
+---------
+ФИО: Wright  Mr. George
+Пол: male
+Возраст: 62
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 179
+Регион покупки: Halifax: NS
+---------
+ФИО: Young  Miss. Marie Grice
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1185
+Регион покупки: New York: NY / Washington: DC
+---------
+ФИО: Abelson  Mr. Samuel
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1430
+Регион покупки: Russia New York: NY
+---------
+ФИО: Abelson  Mrs. Samuel (Hannah Wizosky)
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 343
+Регион покупки: Russia New York: NY
+---------
+ФИО: Aldworth  Mr. Charles Augustus
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 316
+Регион покупки: Bryn Mawr: PA: USA
+---------
+ФИО: Andrew  Mr. Edgardo Samuel
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1098
+Регион покупки: Buenos Aires: Argentina / New Jersey: NJ
+---------
+ФИО: Andrew  Mr. Frank Thomas
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 686
+Регион покупки: Cornwall: England Houghton: MI
+---------
+ФИО: Angle  Mr. William A
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 858
+Регион покупки: Warwick: England
+---------
+ФИО: Angle  Mrs. William A (Florence "Mary" Agnes Hughes)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 453
+Регион покупки: Warwick: England
+---------
+ФИО: Ashby  Mr. John
+Пол: male
+Возраст: 57
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1124
+Регион покупки: West Hoboken: NJ
+---------
+ФИО: Bailey  Mr. Percy Andrew
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1118
+Регион покупки: Penzance: Cornwall / Akron: OH
+---------
+ФИО: Baimbrigge  Mr. Charles Robert
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1473
+Регион покупки: Guernsey
+---------
+ФИО: Ball  Mrs. (Ada E Hall)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 529
+Регион покупки: Bristol: Avon / Jacksonville: FL
+---------
+ФИО: Banfield  Mr. Frederick James
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 381
+Регион покупки: Plymouth: Dorset / Houghton: MI
+---------
+ФИО: Bateman  Rev. Robert James
+Пол: male
+Возраст: 51
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 775
+Регион покупки: Jacksonville: FL
+---------
+ФИО: Beane  Mr. Edward
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 394
+Регион покупки: Norwich / New York: NY
+---------
+ФИО: Beane  Mrs. Edward (Ethel Clarke)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 561
+Регион покупки: Norwich / New York: NY
+---------
+ФИО: Beauchamp  Mr. Henry James
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1429
+Регион покупки: England
+---------
+ФИО: Becker  Master. Richard F
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 62
+Регион покупки: Guntur: India / Benton Harbour: MI
+---------
+ФИО: Becker  Miss. Marion Louise
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 271
+Регион покупки: Guntur: India / Benton Harbour: MI
+---------
+ФИО: Becker  Miss. Ruth Elizabeth
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 47
+Регион покупки: Guntur: India / Benton Harbour: MI
+---------
+ФИО: Becker  Mrs. Allen Oliver (Nellie E Baumgardner)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 548
+Регион покупки: Guntur: India / Benton Harbour: MI
+---------
+ФИО: Beesley  Mr. Lawrence
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 804
+Регион покупки: London
+---------
+ФИО: Bentham  Miss. Lilian W
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 593
+Регион покупки: Rochester: NY
+---------
+ФИО: Berriman  Mr. William John
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1250
+Регион покупки: St Ives: Cornwall / Calumet: MI
+---------
+ФИО: Botsford  Mr. William Hull
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1377
+Регион покупки: Elmira: NY / Orange: NJ
+---------
+ФИО: Bowenur  Mr. Solomon
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1025
+Регион покупки: London
+---------
+ФИО: Bracken  Mr. James H
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 530
+Регион покупки: Lake Arthur: Chavez County: NM
+---------
+ФИО: Brown  Miss. Amelia "Mildred"
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 321
+Регион покупки: London / Montreal: PQ
+---------
+ФИО: Brown  Miss. Edith Eileen
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1331
+Регион покупки: Cape Town: South Africa / Seattle: WA
+---------
+ФИО: Brown  Mr. Thomas William Solomon
+Пол: male
+Возраст: 60
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 971
+Регион покупки: Cape Town: South Africa / Seattle: WA
+---------
+ФИО: Brown  Mrs. Thomas William Solomon (Elizabeth Catherine Ford)
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 823
+Регион покупки: Cape Town: South Africa / Seattle: WA
+---------
+ФИО: Bryhl  Miss. Dagmar Jenny Ingeborg 
+Пол: female
+Возраст: 20
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 374
+Регион покупки: Skara: Sweden / Rockford: IL
+---------
+ФИО: Bryhl  Mr. Kurt Arnold Gottfrid
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 648
+Регион покупки: Skara: Sweden / Rockford: IL
+---------
+ФИО: Buss  Miss. Kate
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1328
+Регион покупки: Sittingbourne: England / San Diego: CA
+---------
+ФИО: Butler  Mr. Reginald Fenton
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 542
+Регион покупки: Southsea: Hants
+---------
+ФИО: Byles  Rev. Thomas Roussel Davids
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 398
+Регион покупки: London
+---------
+ФИО: Bystrom  Mrs. (Karolina)
+Пол: female
+Возраст: 42
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1127
+Регион покупки: New York: NY
+---------
+ФИО: Caldwell  Master. Alden Gates
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1201
+Регион покупки: Bangkok: Thailand / Roseville: IL
+---------
+ФИО: Caldwell  Mr. Albert Francis
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 620
+Регион покупки: Bangkok: Thailand / Roseville: IL
+---------
+ФИО: Caldwell  Mrs. Albert Francis (Sylvia Mae Harbaugh)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1291
+Регион покупки: Bangkok: Thailand / Roseville: IL
+---------
+ФИО: Cameron  Miss. Clear Annie
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1269
+Регион покупки: Mamaroneck: NY
+---------
+ФИО: Campbell  Mr. William
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1302
+Регион покупки: Belfast
+---------
+ФИО: Carbines  Mr. William
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 881
+Регион покупки: St Ives: Cornwall / Calumet: MI
+---------
+ФИО: Carter  Mrs. Ernest Courtenay (Lilian Hughes)
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1386
+Регион покупки: London
+---------
+ФИО: Carter  Rev. Ernest Courtenay
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1127
+Регион покупки: London
+---------
+ФИО: Chapman  Mr. Charles Henry
+Пол: male
+Возраст: 52
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 710
+Регион покупки: Bronx: NY
+---------
+ФИО: Chapman  Mr. John Henry
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 645
+Регион покупки: Cornwall / Spokane: WA
+---------
+ФИО: Chapman  Mrs. John Henry (Sara Elizabeth Lawry)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 835
+Регион покупки: Cornwall / Spokane: WA
+---------
+ФИО: Christy  Miss. Julie Rachel
+Пол: female
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1045
+Регион покупки: London
+---------
+ФИО: Christy  Mrs. (Alice Frances)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1286
+Регион покупки: London
+---------
+ФИО: Clarke  Mr. Charles Valentine
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 688
+Регион покупки: England / San Francisco: CA
+---------
+ФИО: Clarke  Mrs. Charles V (Ada Maria Winfield)
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 742
+Регион покупки: England / San Francisco: CA
+---------
+ФИО: Coleridge  Mr. Reginald Charles
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 672
+Регион покупки: Hartford: Huntingdonshire
+---------
+ФИО: Collander  Mr. Erik Gustaf
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 702
+Регион покупки: Helsinki: Finland Ashtabula: Ohio
+---------
+ФИО: Collett  Mr. Sidney C Stuart
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 874
+Регион покупки: London / Fort Byron: NY
+---------
+ФИО: Collyer  Miss. Marjorie "Lottie"
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 916
+Регион покупки: Bishopstoke: Hants / Fayette Valley: ID
+---------
+ФИО: Collyer  Mr. Harvey
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1277
+Регион покупки: Bishopstoke: Hants / Fayette Valley: ID
+---------
+ФИО: Collyer  Mrs. Harvey (Charlotte Annie Tate)
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 898
+Регион покупки: Bishopstoke: Hants / Fayette Valley: ID
+---------
+ФИО: Cook  Mrs. (Selena Rogers)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 854
+Регион покупки: Pennsylvania
+---------
+ФИО: Corbett  Mrs. Walter H (Irene Colvin)
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 633
+Регион покупки: Provo: UT
+---------
+ФИО: Corey  Mrs. Percy C (Mary Phyllis Elizabeth Miller)
+Пол: female
+Возраст: 53
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 515
+Регион покупки: Upper Burma: India Pittsburgh: PA
+---------
+ФИО: Cotterill  Mr. Henry "Harry"
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 524
+Регион покупки: Penzance: Cornwall / Akron: OH
+---------
+ФИО: Cunningham  Mr. Alfred Fleming
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 783
+Регион покупки: Belfast
+---------
+ФИО: Davies  Master. John Morgan Jr
+Пол: male
+Возраст: 53
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 831
+Регион покупки: St Ives: Cornwall / Hancock: MI
+---------
+ФИО: Davies  Mr. Charles Henry
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1460
+Регион покупки: Lyndhurst: England
+---------
+ФИО: Davies  Mrs. John Morgan (Elizabeth Agnes Mary White) 
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 717
+Регион покупки: St Ives: Cornwall / Hancock: MI
+---------
+ФИО: Davis  Miss. Mary
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 367
+Регион покупки: London / Staten Island: NY
+---------
+ФИО: de Brito  Mr. Jose Joaquim
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1089
+Регион покупки: Portugal / Sau Paulo: Brazil
+---------
+ФИО: Deacon  Mr. Percy William
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 354
+Регион покупки: -
+---------
+ФИО: del Carlo  Mr. Sebastiano
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1103
+Регион покупки: Lucca: Italy / California
+---------
+ФИО: del Carlo  Mrs. Sebastiano (Argenia Genovesi)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1101
+Регион покупки: Lucca: Italy / California
+---------
+ФИО: Denbury  Mr. Herbert
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 587
+Регион покупки: Guernsey / Elizabeth: NJ
+---------
+ФИО: Dibden  Mr. William
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 809
+Регион покупки: New Forest: England
+---------
+ФИО: Doling  Miss. Elsie
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1457
+Регион покупки: Southampton
+---------
+ФИО: Doling  Mrs. John T (Ada Julia Bone)
+Пол: female
+Возраст: 34
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1247
+Регион покупки: Southampton
+---------
+ФИО: Downton  Mr. William James
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 237
+Регион покупки: Holley: NY
+---------
+ФИО: Drew  Master. Marshall Brines
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 949
+Регион покупки: Greenport: NY
+---------
+ФИО: Drew  Mr. James Vivian
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1142
+Регион покупки: Greenport: NY
+---------
+ФИО: Drew  Mrs. James Vivian (Lulu Thorne Christian)
+Пол: female
+Возраст: 34
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 721
+Регион покупки: Greenport: NY
+---------
+ФИО: Duran y More  Miss. Asuncion
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 955
+Регион покупки: Barcelona: Spain / Havana: Cuba
+---------
+ФИО: Duran y More  Miss. Florentina
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1464
+Регион покупки: Barcelona: Spain / Havana: Cuba
+---------
+ФИО: Eitemiller  Mr. George Floyd
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 267
+Регион покупки: England / Detroit: MI
+---------
+ФИО: Enander  Mr. Ingvar
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1148
+Регион покупки: Goteborg: Sweden / Rockford: IL
+---------
+ФИО: Fahlstrom  Mr. Arne Jonas
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 270
+Регион покупки: Oslo: Norway Bayonne: NJ
+---------
+ФИО: Faunthorpe  Mr. Harry
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 960
+Регион покупки: England / Philadelphia: PA
+---------
+ФИО: Faunthorpe  Mrs. Lizzie (Elizabeth Anne Wilkinson)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 377
+Регион покупки: -
+---------
+ФИО: Fillbrook  Mr. Joseph Charles
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 930
+Регион покупки: Cornwall / Houghton: MI
+---------
+ФИО: Fox  Mr. Stanley Hubert
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 121
+Регион покупки: Rochester: NY
+---------
+ФИО: Frost  Mr. Anthony Wood "Archie"
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1205
+Регион покупки: Belfast
+---------
+ФИО: Funk  Miss. Annie Clemmer
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1441
+Регион покупки: Janjgir: India / Pennsylvania
+---------
+ФИО: Fynney  Mr. Joseph J
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 845
+Регион покупки: Liverpool / Montreal: PQ
+---------
+ФИО: Gale  Mr. Harry
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 676
+Регион покупки: Cornwall / Clear Creek: CO
+---------
+ФИО: Gale  Mr. Shadrach
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1362
+Регион покупки: Cornwall / Clear Creek: CO
+---------
+ФИО: Garside  Miss. Ethel
+Пол: female
+Возраст: 34
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 625
+Регион покупки: Brooklyn: NY
+---------
+ФИО: Gaskell  Mr. Alfred
+Пол: male
+Возраст: 16
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1382
+Регион покупки: Liverpool / Montreal: PQ
+---------
+ФИО: Gavey  Mr. Lawrence
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 778
+Регион покупки: Guernsey / Elizabeth: NJ
+---------
+ФИО: Gilbert  Mr. William
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 490
+Регион покупки: Cornwall
+---------
+ФИО: Giles  Mr. Edgar
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 517
+Регион покупки: Cornwall / Camden: NJ
+---------
+ФИО: Giles  Mr. Frederick Edward
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 608
+Регион покупки: Cornwall / Camden: NJ
+---------
+ФИО: Giles  Mr. Ralph
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1321
+Регион покупки: West Kensington: London
+---------
+ФИО: Gill  Mr. John William
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 288
+Регион покупки: Clevedon: England
+---------
+ФИО: Gillespie  Mr. William Henry
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1240
+Регион покупки: Vancouver: BC
+---------
+ФИО: Givard  Mr. Hans Kristensen
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 857
+Регион покупки: -
+---------
+ФИО: Greenberg  Mr. Samuel
+Пол: male
+Возраст: 52
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 431
+Регион покупки: Bronx: NY
+---------
+ФИО: Hale  Mr. Reginald
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 795
+Регион покупки: Auburn: NY
+---------
+ФИО: Hamalainen  Master. Viljo
+Пол: male
+Возраст: 0.67
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 637
+Регион покупки: Detroit: MI
+---------
+ФИО: Hamalainen  Mrs. William (Anna)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 794
+Регион покупки: Detroit: MI
+---------
+ФИО: Harbeck  Mr. William H
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 940
+Регион покупки: Seattle: WA / Toledo: OH
+---------
+ФИО: Harper  Miss. Annie Jessie "Nina"
+Пол: female
+Возраст: 6
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1485
+Регион покупки: Denmark Hill: Surrey / Chicago
+---------
+ФИО: Harper  Rev. John
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1237
+Регион покупки: Denmark Hill: Surrey / Chicago
+---------
+ФИО: Harris  Mr. George
+Пол: male
+Возраст: 62
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 277
+Регион покупки: London
+---------
+ФИО: Harris  Mr. Walter
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1276
+Регион покупки: Walthamstow: England
+---------
+ФИО: Hart  Miss. Eva Miriam
+Пол: female
+Возраст: 7
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 459
+Регион покупки: Ilford: Essex / Winnipeg: MB
+---------
+ФИО: Hart  Mr. Benjamin
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1229
+Регион покупки: Ilford: Essex / Winnipeg: MB
+---------
+ФИО: Hart  Mrs. Benjamin (Esther Ada Bloomfield)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1272
+Регион покупки: Ilford: Essex / Winnipeg: MB
+---------
+ФИО: Herman  Miss. Alice
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1288
+Регион покупки: Somerset / Bernardsville: NJ
+---------
+ФИО: Herman  Miss. Kate
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 303
+Регион покупки: Somerset / Bernardsville: NJ
+---------
+ФИО: Herman  Mr. Samuel
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 300
+Регион покупки: Somerset / Bernardsville: NJ
+---------
+ФИО: Herman  Mrs. Samuel (Jane Laver)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1168
+Регион покупки: Somerset / Bernardsville: NJ
+---------
+ФИО: Hewlett  Mrs. (Mary D Kingcome) 
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1273
+Регион покупки: India / Rapid City: SD
+---------
+ФИО: Hickman  Mr. Leonard Mark
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1230
+Регион покупки: West Hampstead: London / Neepawa: MB
+---------
+ФИО: Hickman  Mr. Lewis
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1005
+Регион покупки: West Hampstead: London / Neepawa: MB
+---------
+ФИО: Hickman  Mr. Stanley George
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 832
+Регион покупки: West Hampstead: London / Neepawa: MB
+---------
+ФИО: Hiltunen  Miss. Marta
+Пол: female
+Возраст: 18
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 275
+Регион покупки: Kontiolahti: Finland / Detroit: MI
+---------
+ФИО: Hocking  Miss. Ellen "Nellie"
+Пол: female
+Возраст: 20
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 542
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Hocking  Mr. Richard George
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 469
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Hocking  Mr. Samuel James Metcalfe
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1368
+Регион покупки: Devonport: England
+---------
+ФИО: Hocking  Mrs. Elizabeth (Eliza Needs)
+Пол: female
+Возраст: 54
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 498
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Hodges  Mr. Henry Price
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1289
+Регион покупки: Southampton
+---------
+ФИО: Hold  Mr. Stephen
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 643
+Регион покупки: England / Sacramento: CA
+---------
+ФИО: Hold  Mrs. Stephen (Annie Margaret Hill)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1432
+Регион покупки: England / Sacramento: CA
+---------
+ФИО: Hood  Mr. Ambrose Jr
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 481
+Регион покупки: New Forest: England
+---------
+ФИО: Hosono  Mr. Masabumi
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 530
+Регион покупки: Tokyo: Japan
+---------
+ФИО: Howard  Mr. Benjamin
+Пол: male
+Возраст: 63
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 281
+Регион покупки: Swindon: England
+---------
+ФИО: Howard  Mrs. Benjamin (Ellen Truelove Arman)
+Пол: female
+Возраст: 60
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 731
+Регион покупки: Swindon: England
+---------
+ФИО: Hunt  Mr. George Henry
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 165
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Ilett  Miss. Bertha
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 33
+Регион покупки: Guernsey
+---------
+ФИО: Jacobsohn  Mr. Sidney Samuel
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 155
+Регион покупки: London
+---------
+ФИО: Jacobsohn  Mrs. Sidney Samuel (Amy Frances Christy)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 718
+Регион покупки: London
+---------
+ФИО: Jarvis  Mr. John Denzil
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 275
+Регион покупки: North Evington: England
+---------
+ФИО: Jefferys  Mr. Clifford Thomas
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 177
+Регион покупки: Guernsey / Elizabeth: NJ
+---------
+ФИО: Jefferys  Mr. Ernest Wilfred
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1101
+Регион покупки: Guernsey / Elizabeth: NJ
+---------
+ФИО: Jenkin  Mr. Stephen Curnow
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 351
+Регион покупки: St Ives: Cornwall / Houghton: MI
+---------
+ФИО: Jerwan  Mrs. Amin S (Marie Marthe Thuillard)
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 962
+Регион покупки: New York: NY
+---------
+ФИО: Kantor  Mr. Sinai
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 939
+Регион покупки: Moscow / Bronx: NY
+---------
+ФИО: Kantor  Mrs. Sinai (Miriam Sternin)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1157
+Регион покупки: Moscow / Bronx: NY
+---------
+ФИО: Karnes  Mrs. J Frank (Claire Bennett)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1386
+Регион покупки: India / Pittsburgh: PA
+---------
+ФИО: Keane  Miss. Nora A
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 507
+Регион покупки: Harrisburg: PA
+---------
+ФИО: Keane  Mr. Daniel
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 45
+Регион покупки: -
+---------
+ФИО: Kelly  Mrs. Florence "Fannie"
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1300
+Регион покупки: London / New York: NY
+---------
+ФИО: Kirkland  Rev. Charles Leonard
+Пол: male
+Возраст: 57
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 439
+Регион покупки: Glasgow / Bangor: ME
+---------
+ФИО: Knight  Mr. Robert J
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1480
+Регион покупки: Belfast
+---------
+ФИО: Kvillner  Mr. Johan Henrik Johannesson
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 835
+Регион покупки: Sweden / Arlington: NJ
+---------
+ФИО: Lahtinen  Mrs. William (Anna Sylfven)
+Пол: female
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1101
+Регион покупки: Minneapolis: MN
+---------
+ФИО: Lahtinen  Rev. William
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 42
+Регион покупки: Minneapolis: MN
+---------
+ФИО: Lamb  Mr. John Joseph
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 728
+Регион покупки: -
+---------
+ФИО: Laroche  Miss. Louise
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1274
+Регион покупки: Paris / Haiti
+---------
+ФИО: Laroche  Miss. Simonne Marie Anne Andree
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 568
+Регион покупки: Paris / Haiti
+---------
+ФИО: Laroche  Mr. Joseph Philippe Lemercier
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 665
+Регион покупки: Paris / Haiti
+---------
+ФИО: Laroche  Mrs. Joseph (Juliette Marie Louise Lafargue)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1369
+Регион покупки: Paris / Haiti
+---------
+ФИО: Lehmann  Miss. Bertha
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 173
+Регион покупки: Berne: Switzerland / Central City: IA
+---------
+ФИО: Leitch  Miss. Jessie Wills
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 581
+Регион покупки: London / Chicago: IL
+---------
+ФИО: Lemore  Mrs. (Amelia Milley)
+Пол: female
+Возраст: 34
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 50
+Регион покупки: Chicago: IL
+---------
+ФИО: Levy  Mr. Rene Jacques
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1477
+Регион покупки: Montreal: PQ
+---------
+ФИО: Leyson  Mr. Robert William Norman
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 914
+Регион покупки: -
+---------
+ФИО: Lingane  Mr. John
+Пол: male
+Возраст: 61
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 330
+Регион покупки: -
+---------
+ФИО: Louch  Mr. Charles Alexander
+Пол: male
+Возраст: 50
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 686
+Регион покупки: Weston-Super-Mare: Somerset
+---------
+ФИО: Louch  Mrs. Charles Alexander (Alice Adelaide Slow)
+Пол: female
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 402
+Регион покупки: Weston-Super-Mare: Somerset
+---------
+ФИО: Mack  Mrs. (Mary)
+Пол: female
+Возраст: 57
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1211
+Регион покупки: Southampton / New York: NY
+---------
+ФИО: Malachard  Mr. Noel
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 544
+Регион покупки: Paris
+---------
+ФИО: Mallet  Master. Andre
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 877
+Регион покупки: Paris / Montreal: PQ
+---------
+ФИО: Mallet  Mr. Albert
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 80
+Регион покупки: Paris / Montreal: PQ
+---------
+ФИО: Mallet  Mrs. Albert (Antoinette Magnin)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 364
+Регион покупки: Paris / Montreal: PQ
+---------
+ФИО: Mangiavacchi  Mr. Serafino Emilio
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 858
+Регион покупки: New York: NY
+---------
+ФИО: Matthews  Mr. William John
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 94
+Регион покупки: St Austall: Cornwall
+---------
+ФИО: Maybery  Mr. Frank Hubert
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 707
+Регион покупки: Weston-Super-Mare / Moose Jaw: SK
+---------
+ФИО: McCrae  Mr. Arthur Gordon
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1356
+Регион покупки: Sydney: Australia
+---------
+ФИО: McCrie  Mr. James Matthew
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1396
+Регион покупки: Sarnia: ON
+---------
+ФИО: McKane  Mr. Peter David
+Пол: male
+Возраст: 46
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1415
+Регион покупки: Rochester: NY
+---------
+ФИО: Mellinger  Miss. Madeleine Violet
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 464
+Регион покупки: England / Bennington: VT
+---------
+ФИО: Mellinger  Mrs. (Elizabeth Anne Maidment)
+Пол: female
+Возраст: 41
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 605
+Регион покупки: England / Bennington: VT
+---------
+ФИО: Mellors  Mr. William John
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1108
+Регион покупки: Chelsea: London
+---------
+ФИО: Meyer  Mr. August
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 717
+Регион покупки: Harrow-on-the-Hill: Middlesex
+---------
+ФИО: Milling  Mr. Jacob Christian
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 278
+Регион покупки: Copenhagen: Denmark
+---------
+ФИО: Mitchell  Mr. Henry Michael
+Пол: male
+Возраст: 70
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 346
+Регион покупки: Guernsey / Montclair: NJ and/or Toledo: Ohio
+---------
+ФИО: Montvila  Rev. Juozas
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1262
+Регион покупки: Worcester: MA
+---------
+ФИО: Moraweck  Dr. Ernest
+Пол: male
+Возраст: 54
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1127
+Регион покупки: Frankfort: KY
+---------
+ФИО: Morley  Mr. Henry Samuel ("Mr Henry Marshall")
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 730
+Регион покупки: -
+---------
+ФИО: Mudd  Mr. Thomas Charles
+Пол: male
+Возраст: 16
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1012
+Регион покупки: Halesworth: England
+---------
+ФИО: Myles  Mr. Thomas Francis
+Пол: male
+Возраст: 62
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1363
+Регион покупки: Cambridge: MA
+---------
+ФИО: Nasser  Mr. Nicholas
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 580
+Регион покупки: New York: NY
+---------
+ФИО: Nasser  Mrs. Nicholas (Adele Achem)
+Пол: female
+Возраст: 14
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1489
+Регион покупки: New York: NY
+---------
+ФИО: Navratil  Master. Edmond Roger
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1415
+Регион покупки: Nice: France
+---------
+ФИО: Navratil  Master. Michel M
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 346
+Регион покупки: Nice: France
+---------
+ФИО: Navratil  Mr. Michel ("Louis M Hoffman")
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1247
+Регион покупки: Nice: France
+---------
+ФИО: Nesson  Mr. Israel
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 756
+Регион покупки: Boston: MA
+---------
+ФИО: Nicholls  Mr. Joseph Charles
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 180
+Регион покупки: Cornwall / Hancock: MI
+---------
+ФИО: Norman  Mr. Robert Douglas
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 301
+Регион покупки: Glasgow
+---------
+ФИО: Nourney  Mr. Alfred ("Baron von Drachstedt")
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 895
+Регион покупки: Cologne: Germany
+---------
+ФИО: Nye  Mrs. (Elizabeth Ramell)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 299
+Регион покупки: Folkstone: Kent / New York: NY
+---------
+ФИО: Otter  Mr. Richard
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 448
+Регион покупки: Middleburg Heights: OH
+---------
+ФИО: Oxenham  Mr. Percy Thomas
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 720
+Регион покупки: Pondersend: England / New Durham: NJ
+---------
+ФИО: Padro y Manent  Mr. Julian
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 208
+Регион покупки: Spain / Havana: Cuba
+---------
+ФИО: Pain  Dr. Alfred
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 521
+Регион покупки: Hamilton: ON
+---------
+ФИО: Pallas y Castello  Mr. Emilio
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 825
+Регион покупки: Spain / Havana: Cuba
+---------
+ФИО: Parker  Mr. Clifford Richard
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1036
+Регион покупки: St Andrews: Guernsey
+---------
+ФИО: Parkes  Mr. Francis "Frank"
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 813
+Регион покупки: Belfast
+---------
+ФИО: Parrish  Mrs. (Lutie Davis)
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1217
+Регион покупки: Woodford County: KY
+---------
+ФИО: Pengelly  Mr. Frederick William
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 735
+Регион покупки: Gunnislake: England / Butte: MT
+---------
+ФИО: Pernot  Mr. Rene
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 627
+Регион покупки: -
+---------
+ФИО: Peruschitz  Rev. Joseph Maria
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 317
+Регион покупки: -
+---------
+ФИО: Phillips  Miss. Alice Frances Louisa
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 610
+Регион покупки: Ilfracombe: Devon
+---------
+ФИО: Phillips  Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1019
+Регион покупки: Worcester: England
+---------
+ФИО: Phillips  Mr. Escott Robert
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1470
+Регион покупки: Ilfracombe: Devon
+---------
+ФИО: Pinsky  Mrs. (Rosa)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1262
+Регион покупки: Russia
+---------
+ФИО: Ponesell  Mr. Martin
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 770
+Регион покупки: Denmark / New York: NY
+---------
+ФИО: Portaluppi  Mr. Emilio Ilario Giuseppe
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1108
+Регион покупки: Milford: NH
+---------
+ФИО: Pulbaum  Mr. Franz
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 115
+Регион покупки: Paris
+---------
+ФИО: Quick  Miss. Phyllis May
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 696
+Регион покупки: Plymouth: Devon / Detroit: MI
+---------
+ФИО: Quick  Miss. Winifred Vera
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1230
+Регион покупки: Plymouth: Devon / Detroit: MI
+---------
+ФИО: Quick  Mrs. Frederick Charles (Jane Richards)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 463
+Регион покупки: Plymouth: Devon / Detroit: MI
+---------
+ФИО: Reeves  Mr. David
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 721
+Регион покупки: Brighton: Sussex
+---------
+ФИО: Renouf  Mr. Peter Henry
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1379
+Регион покупки: Elizabeth: NJ
+---------
+ФИО: Renouf  Mrs. Peter Henry (Lillian Jefferys)
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 562
+Регион покупки: Elizabeth: NJ
+---------
+ФИО: Reynaldo  Ms. Encarnacion
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 225
+Регион покупки: Spain
+---------
+ФИО: Richard  Mr. Emile
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 415
+Регион покупки: Paris / Montreal: PQ
+---------
+ФИО: Richards  Master. George Sibley
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 716
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Richards  Master. William Rowe
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 126
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Richards  Mrs. Sidney (Emily Hocking)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 151
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Ridsdale  Miss. Lucy
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 664
+Регион покупки: London: England / Marietta: Ohio and Milwaukee: WI
+---------
+ФИО: Rogers  Mr. Reginald Harry
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 312
+Регион покупки: -
+---------
+ФИО: Rugg  Miss. Emily
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 145
+Регион покупки: Guernsey / Wilmington: DE
+---------
+ФИО: Schmidt  Mr. August
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1426
+Регион покупки: Newark: NJ
+---------
+ФИО: Sedgwick  Mr. Charles Frederick Waddington
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 513
+Регион покупки: Liverpool
+---------
+ФИО: Sharp  Mr. Percival James R
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1312
+Регион покупки: Hornsey: England
+---------
+ФИО: Shelley  Mrs. William (Imanita Parrish Hall)
+Пол: female
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 765
+Регион покупки: Deer Lodge: MT
+---------
+ФИО: Silven  Miss. Lyyli Karoliina
+Пол: female
+Возраст: 18
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 316
+Регион покупки: Finland / Minneapolis: MN
+---------
+ФИО: Sincock  Miss. Maude
+Пол: female
+Возраст: 20
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1324
+Регион покупки: Cornwall / Hancock: MI
+---------
+ФИО: Sinkkonen  Miss. Anna
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 705
+Регион покупки: Finland / Washington: DC
+---------
+ФИО: Sjostedt  Mr. Ernst Adolf
+Пол: male
+Возраст: 59
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 632
+Регион покупки: Sault St Marie: ON
+---------
+ФИО: Slayter  Miss. Hilda Mary
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 67
+Регион покупки: Halifax: NS
+---------
+ФИО: Slemen  Mr. Richard James
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 496
+Регион покупки: Cornwall
+---------
+ФИО: Smith  Miss. Marion Elsie
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1158
+Регион покупки: -
+---------
+ФИО: Sobey  Mr. Samuel James Hayden
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1090
+Регион покупки: Cornwall / Houghton: MI
+---------
+ФИО: Stanton  Mr. Samuel Ward
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 142
+Регион покупки: New York: NY
+---------
+ФИО: Stokes  Mr. Philip Joseph
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1440
+Регион покупки: Catford: Kent / Detroit: MI
+---------
+ФИО: Swane  Mr. George
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 624
+Регион покупки: -
+---------
+ФИО: Sweet  Mr. George Frederick
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 148
+Регион покупки: Somerset / Bernardsville: NJ
+---------
+ФИО: Toomey  Miss. Ellen
+Пол: female
+Возраст: 50
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1241
+Регион покупки: Indianapolis: IN
+---------
+ФИО: Troupiansky  Mr. Moses Aaron
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 875
+Регион покупки: -
+---------
+ФИО: Trout  Mrs. William H (Jessie L)
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 334
+Регион покупки: Columbus: OH
+---------
+ФИО: Troutt  Miss. Edwina Celia "Winnie"
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 52
+Регион покупки: Bath: England / Massachusetts
+---------
+ФИО: Turpin  Mr. William John Robert
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 873
+Регион покупки: Plymouth: England
+---------
+ФИО: Turpin  Mrs. William John Robert (Dorothy Ann Wonnacott)
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 591
+Регион покупки: Plymouth: England
+---------
+ФИО: Veal  Mr. James
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1096
+Регион покупки: Barre: Co Washington: VT
+---------
+ФИО: Walcroft  Miss. Nellie
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 473
+Регион покупки: Mamaroneck: NY
+---------
+ФИО: Ware  Mr. John James
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 134
+Регион покупки: Bristol: England / New Britain: CT
+---------
+ФИО: Ware  Mr. William Jeffery
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1244
+Регион покупки: -
+---------
+ФИО: Ware  Mrs. John James (Florence Louise Long)
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1235
+Регион покупки: Bristol: England / New Britain: CT
+---------
+ФИО: Watson  Mr. Ennis Hastings
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 911
+Регион покупки: Belfast
+---------
+ФИО: Watt  Miss. Bertha J
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 232
+Регион покупки: Aberdeen / Portland: OR
+---------
+ФИО: Watt  Mrs. James (Elizabeth "Bessie" Inglis Milne)
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1028
+Регион покупки: Aberdeen / Portland: OR
+---------
+ФИО: Webber  Miss. Susan
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 261
+Регион покупки: England / Hartford: CT
+---------
+ФИО: Weisz  Mr. Leopold
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 870
+Регион покупки: Bromsgrove: England / Montreal: PQ
+---------
+ФИО: Weisz  Mrs. Leopold (Mathilde Francoise Pede)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 480
+Регион покупки: Bromsgrove: England / Montreal: PQ
+---------
+ФИО: Wells  Master. Ralph Lester
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 364
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Wells  Miss. Joan
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 906
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: Wells  Mrs. Arthur Henry ("Addie" Dart Trevaskis)
+Пол: female
+Возраст: 29
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 575
+Регион покупки: Cornwall / Akron: OH
+---------
+ФИО: West  Miss. Barbara J
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1023
+Регион покупки: Bournmouth: England
+---------
+ФИО: West  Miss. Constance Mirium
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 957
+Регион покупки: Bournmouth: England
+---------
+ФИО: West  Mr. Edwy Arthur
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 528
+Регион покупки: Bournmouth: England
+---------
+ФИО: West  Mrs. Edwy Arthur (Ada Mary Worth)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1461
+Регион покупки: Bournmouth: England
+---------
+ФИО: Wheadon  Mr. Edward H
+Пол: male
+Возраст: 66
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 908
+Регион покупки: Guernsey: England / Edgewood: RI
+---------
+ФИО: Wheeler  Mr. Edwin "Frederick"
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 409
+Регион покупки: -
+---------
+ФИО: Wilhelms  Mr. Charles
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 498
+Регион покупки: London: England
+---------
+ФИО: Williams  Mr. Charles Eugene
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1466
+Регион покупки: Harrow: England
+---------
+ФИО: Wright  Miss. Marion
+Пол: female
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 128
+Регион покупки: Yoevil: England / Cottage Grove: OR
+---------
+ФИО: Yrois  Miss. Henriette ("Mrs Harbeck")
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 357
+Регион покупки: Paris
+---------
+ФИО: Abbing  Mr. Anthony
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 138
+Регион покупки: -
+---------
+ФИО: Abbott  Master. Eugene Joseph
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 902
+Регион покупки: East Providence: RI
+---------
+ФИО: Abbott  Mr. Rossmore Edward
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1185
+Регион покупки: East Providence: RI
+---------
+ФИО: Abbott  Mrs. Stanton (Rosa Hunt)
+Пол: female
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 584
+Регион покупки: East Providence: RI
+---------
+ФИО: Abelseth  Miss. Karen Marie
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 202
+Регион покупки: Norway Los Angeles: CA
+---------
+ФИО: Abelseth  Mr. Olaus Jorgensen
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1322
+Регион покупки: Perkins County: SD
+---------
+ФИО: Abrahamsson  Mr. Abraham August Johannes
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1150
+Регион покупки: Taalintehdas: Finland Hoboken: NJ
+---------
+ФИО: Abrahim  Mrs. Joseph (Sophie Halaut Easu)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 243
+Регион покупки: Greensburg: PA
+---------
+ФИО: Adahl  Mr. Mauritz Nils Martin
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 970
+Регион покупки: Asarum: Sweden Brooklyn: NY
+---------
+ФИО: Adams  Mr. John
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 104
+Регион покупки: Bournemouth: England
+---------
+ФИО: Ahlin  Mrs. Johan (Johanna Persdotter Larsson)
+Пол: female
+Возраст: 40
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1333
+Регион покупки: Sweden Akeley: MN
+---------
+ФИО: Aks  Master. Philip Frank
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 897
+Регион покупки: London: England Norfolk: VA
+---------
+ФИО: Aks  Mrs. Sam (Leah Rosen)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 739
+Регион покупки: London: England Norfolk: VA
+---------
+ФИО: Albimona  Mr. Nassef Cassem
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 848
+Регион покупки: Syria Fredericksburg: VA
+---------
+ФИО: Alexander  Mr. William
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1084
+Регион покупки: England Albion: NY
+---------
+ФИО: Alhomaki  Mr. Ilmari Rudolf
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 479
+Регион покупки: Salo: Finland Astoria: OR
+---------
+ФИО: Ali  Mr. Ahmed
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 443
+Регион покупки: -
+---------
+ФИО: Ali  Mr. William
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1186
+Регион покупки: Argentina
+---------
+ФИО: Allen  Mr. William Henry
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 873
+Регион покупки: Lower Clapton: Middlesex or Erdington: Birmingham
+---------
+ФИО: Allum  Mr. Owen George
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 789
+Регион покупки: Windsor: England New York: NY
+---------
+ФИО: Andersen  Mr. Albert Karvin
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 208
+Регион покупки: Bergen: Norway
+---------
+ФИО: Andersen-Jensen  Miss. Carla Christine Nielsine
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 793
+Регион покупки: -
+---------
+ФИО: Andersson  Master. Sigvard Harald Elias
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 477
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Miss. Ebba Iris Alfrida
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1095
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Miss. Ellis Anna Maria
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 758
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Miss. Erna Alexandra
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1208
+Регион покупки: Ruotsinphyhtaa: Finland New York: NY
+---------
+ФИО: Andersson  Miss. Ida Augusta Margareta
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1360
+Регион покупки: Vadsbro: Sweden Ministee: MI
+---------
+ФИО: Andersson  Miss. Ingeborg Constanzia
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1500
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Miss. Sigrid Elisabeth
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 822
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Mr. Anders Johan
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 576
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andersson  Mr. August Edvard ("Wennerstrom")
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 55
+Регион покупки: -
+---------
+ФИО: Andersson  Mr. Johan Samuel
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1466
+Регион покупки: Hartford: CT
+---------
+ФИО: Andersson  Mrs. Anders Johan (Alfrida Konstantia Brogren)
+Пол: female
+Возраст: 39
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1165
+Регион покупки: Sweden Winnipeg: MN
+---------
+ФИО: Andreasson  Mr. Paul Edvin
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1227
+Регион покупки: Sweden Chicago: IL
+---------
+ФИО: Angheloff  Mr. Minko
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 220
+Регион покупки: Bulgaria Chicago: IL
+---------
+ФИО: Arnold-Franchi  Mr. Josef
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 995
+Регион покупки: Altdorf: Switzerland
+---------
+ФИО: Arnold-Franchi  Mrs. Josef (Josefine Franchi)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1441
+Регион покупки: Altdorf: Switzerland
+---------
+ФИО: Aronsson  Mr. Ernst Axel Algot
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 110
+Регион покупки: Sweden Joliet: IL
+---------
+ФИО: Asim  Mr. Adola
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1417
+Регион покупки: -
+---------
+ФИО: Asplund  Master. Carl Edgar
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 766
+Регион покупки: Sweden  Worcester: MA
+---------
+ФИО: Asplund  Master. Clarence Gustaf Hugo
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1138
+Регион покупки: Sweden Worcester: MA
+---------
+ФИО: Asplund  Master. Edvin Rojj Felix
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 863
+Регион покупки: Sweden Worcester: MA
+---------
+ФИО: Asplund  Master. Filip Oscar
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1228
+Регион покупки: Sweden Worcester: MA
+---------
+ФИО: Asplund  Miss. Lillian Gertrud
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1231
+Регион покупки: Sweden Worcester: MA
+---------
+ФИО: Asplund  Mr. Carl Oscar Vilhelm Gustafsson
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 640
+Регион покупки: Sweden  Worcester: MA
+---------
+ФИО: Asplund  Mr. Johan Charles
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 61
+Регион покупки: Oskarshamn: Sweden Minneapolis: MN
+---------
+ФИО: Asplund  Mrs. Carl Oscar (Selma Augusta Emilia Johansson)
+Пол: female
+Возраст: 38
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 681
+Регион покупки: Sweden  Worcester: MA
+---------
+ФИО: Assaf Khalil  Mrs. Mariana ("Miriam")
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 868
+Регион покупки: Ottawa: ON
+---------
+ФИО: Assaf  Mr. Gerios
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 776
+Регион покупки: Ottawa: ON
+---------
+ФИО: Assam  Mr. Ali
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 898
+Регион покупки: -
+---------
+ФИО: Attalah  Miss. Malake
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 384
+Регион покупки: -
+---------
+ФИО: Attalah  Mr. Sleiman
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 997
+Регион покупки: Ottawa: ON
+---------
+ФИО: Augustsson  Mr. Albert
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1493
+Регион покупки: Krakoryd: Sweden Bloomington: IL
+---------
+ФИО: Ayoub  Miss. Banoura
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 339
+Регион покупки: Syria Youngstown: OH
+---------
+ФИО: Baccos  Mr. Raffull
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 735
+Регион покупки: -
+---------
+ФИО: Backstrom  Mr. Karl Alfred
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 460
+Регион покупки: Ruotsinphytaa: Finland New York: NY
+---------
+ФИО: Backstrom  Mrs. Karl Alfred (Maria Mathilda Gustafsson)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1429
+Регион покупки: Ruotsinphytaa: Finland New York: NY
+---------
+ФИО: Baclini  Miss. Eugenie
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 256
+Регион покупки: Syria New York: NY
+---------
+ФИО: Baclini  Miss. Helene Barbara
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1258
+Регион покупки: Syria New York: NY
+---------
+ФИО: Baclini  Miss. Marie Catherine
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1372
+Регион покупки: Syria New York: NY
+---------
+ФИО: Baclini  Mrs. Solomon (Latifa Qurban)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 613
+Регион покупки: Syria New York: NY
+---------
+ФИО: Badman  Miss. Emily Louisa
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1397
+Регион покупки: London Skanteales: NY
+---------
+ФИО: Badt  Mr. Mohamed
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1212
+Регион покупки: -
+---------
+ФИО: Balkic  Mr. Cerin
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 428
+Регион покупки: -
+---------
+ФИО: Barah  Mr. Hanna Assi
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 720
+Регион покупки: -
+---------
+ФИО: Barbara  Miss. Saiide
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1158
+Регион покупки: Syria Ottawa: ON
+---------
+ФИО: Barbara  Mrs. (Catherine David)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 683
+Регион покупки: Syria Ottawa: ON
+---------
+ФИО: Barry  Miss. Julia
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 920
+Регион покупки: New York: NY
+---------
+ФИО: Barton  Mr. David John
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1098
+Регион покупки: England New York: NY
+---------
+ФИО: Beavan  Mr. William Thomas
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1109
+Регион покупки: England
+---------
+ФИО: Bengtsson  Mr. John Viktor
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1003
+Регион покупки: Krakudden: Sweden Moune: IL
+---------
+ФИО: Berglund  Mr. Karl Ivar Sven
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 356
+Регион покупки: Tranvik: Finland New York
+---------
+ФИО: Betros  Master. Seman
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 276
+Регион покупки: -
+---------
+ФИО: Betros  Mr. Tannous
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1285
+Регион покупки: Syria
+---------
+ФИО: Bing  Mr. Lee
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 665
+Регион покупки: Hong Kong New York: NY
+---------
+ФИО: Birkeland  Mr. Hans Martin Monsen
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 835
+Регион покупки: Brennes: Norway New York
+---------
+ФИО: Bjorklund  Mr. Ernst Herbert
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1073
+Регион покупки: Stockholm: Sweden New York
+---------
+ФИО: Bostandyeff  Mr. Guentcho
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1447
+Регион покупки: Bulgaria Chicago: IL
+---------
+ФИО: Boulos  Master. Akar
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 452
+Регион покупки: Syria Kent: ON
+---------
+ФИО: Boulos  Miss. Nourelain
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 809
+Регион покупки: Syria Kent: ON
+---------
+ФИО: Boulos  Mr. Hanna
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 148
+Регион покупки: Syria
+---------
+ФИО: Boulos  Mrs. Joseph (Sultana)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 660
+Регион покупки: Syria Kent: ON
+---------
+ФИО: Bourke  Miss. Mary
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 225
+Регион покупки: Ireland Chicago: IL
+---------
+ФИО: Bourke  Mr. John
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 865
+Регион покупки: Ireland Chicago: IL
+---------
+ФИО: Bourke  Mrs. John (Catherine)
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 377
+Регион покупки: Ireland Chicago: IL
+---------
+ФИО: Bowen  Mr. David John "Dai"
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1377
+Регион покупки: Treherbert: Cardiff: Wales
+---------
+ФИО: Bradley  Miss. Bridget Delia
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1063
+Регион покупки: Kingwilliamstown: Co Cork: Ireland Glens Falls: NY
+---------
+ФИО: Braf  Miss. Elin Ester Maria
+Пол: female
+Возраст: 20
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 851
+Регион покупки: Medeltorp: Sweden Chicago: IL
+---------
+ФИО: Braund  Mr. Lewis Richard
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1193
+Регион покупки: Bridgerule: Devon
+---------
+ФИО: Braund  Mr. Owen Harris
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 456
+Регион покупки: Bridgerule: Devon
+---------
+ФИО: Brobeck  Mr. Karl Rudolf
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 945
+Регион покупки: Sweden Worcester: MA
+---------
+ФИО: Brocklebank  Mr. William Alfred
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 263
+Регион покупки: Broomfield: Chelmsford: England
+---------
+ФИО: Buckley  Miss. Katherine
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 848
+Регион покупки: Co Cork: Ireland Roxbury: MA
+---------
+ФИО: Buckley  Mr. Daniel
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 314
+Регион покупки: Kingwilliamstown: Co Cork: Ireland New York: NY
+---------
+ФИО: Burke  Mr. Jeremiah
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1185
+Регион покупки: Co Cork: Ireland Charlestown: MA
+---------
+ФИО: Burns  Miss. Mary Delia
+Пол: female
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1310
+Регион покупки: Co Sligo: Ireland New York: NY
+---------
+ФИО: Cacic  Miss. Manda
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 895
+Регион покупки: -
+---------
+ФИО: Cacic  Miss. Marija
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 76
+Регион покупки: -
+---------
+ФИО: Cacic  Mr. Jego Grga
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 136
+Регион покупки: -
+---------
+ФИО: Cacic  Mr. Luka
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1410
+Регион покупки: Croatia
+---------
+ФИО: Calic  Mr. Jovo
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 875
+Регион покупки: -
+---------
+ФИО: Calic  Mr. Petar
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 176
+Регион покупки: -
+---------
+ФИО: Canavan  Miss. Mary
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 592
+Регион покупки: -
+---------
+ФИО: Canavan  Mr. Patrick
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1324
+Регион покупки: Ireland Philadelphia: PA
+---------
+ФИО: Cann  Mr. Ernest Charles
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1378
+Регион покупки: -
+---------
+ФИО: Caram  Mr. Joseph
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1277
+Регион покупки: Ottawa: ON
+---------
+ФИО: Caram  Mrs. Joseph (Maria Elias)
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1291
+Регион покупки: Ottawa: ON
+---------
+ФИО: Carlsson  Mr. August Sigfrid
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1153
+Регион покупки: Dagsas: Sweden Fower: MN
+---------
+ФИО: Carlsson  Mr. Carl Robert
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 995
+Регион покупки: Goteborg: Sweden Huntley: IL
+---------
+ФИО: Carr  Miss. Helen "Ellen"
+Пол: female
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 205
+Регион покупки: Co Longford: Ireland New York: NY
+---------
+ФИО: Carr  Miss. Jeannie
+Пол: female
+Возраст: 37
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1213
+Регион покупки: Co Sligo: Ireland Hartford: CT
+---------
+ФИО: Carver  Mr. Alfred John
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 529
+Регион покупки: St Denys: Southampton: Hants
+---------
+ФИО: Celotti  Mr. Francesco
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 434
+Регион покупки: London
+---------
+ФИО: Charters  Mr. David
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1418
+Регион покупки: Ireland New York: NY
+---------
+ФИО: Chip  Mr. Chang
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 181
+Регион покупки: Hong Kong New York: NY
+---------
+ФИО: Christmann  Mr. Emil
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1087
+Регион покупки: -
+---------
+ФИО: Chronopoulos  Mr. Apostolos
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 396
+Регион покупки: Greece
+---------
+ФИО: Chronopoulos  Mr. Demetrios
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 977
+Регион покупки: Greece
+---------
+ФИО: Coelho  Mr. Domingos Fernandeo
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 300
+Регион покупки: Portugal
+---------
+ФИО: Cohen  Mr. Gurshon "Gus"
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1370
+Регион покупки: London Brooklyn: NY
+---------
+ФИО: Colbert  Mr. Patrick
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 657
+Регион покупки: Co Limerick: Ireland Sherbrooke: PQ
+---------
+ФИО: Coleff  Mr. Peju
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 330
+Регион покупки: Bulgaria Chicago: IL
+---------
+ФИО: Coleff  Mr. Satio
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 999
+Регион покупки: -
+---------
+ФИО: Conlon  Mr. Thomas Henry
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1277
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Connaghton  Mr. Michael
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1227
+Регион покупки: Ireland Brooklyn: NY
+---------
+ФИО: Connolly  Miss. Kate
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 598
+Регион покупки: Ireland
+---------
+ФИО: Connolly  Miss. Kate
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 768
+Регион покупки: Ireland
+---------
+ФИО: Connors  Mr. Patrick
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 403
+Регион покупки: -
+---------
+ФИО: Cook  Mr. Jacob
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 110
+Регион покупки: -
+---------
+ФИО: Cor  Mr. Bartol
+Пол: male
+Возраст: 35
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 731
+Регион покупки: Austria
+---------
+ФИО: Cor  Mr. Ivan
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 420
+Регион покупки: Austria
+---------
+ФИО: Cor  Mr. Liudevit
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 775
+Регион покупки: Austria
+---------
+ФИО: Corn  Mr. Harry
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 923
+Регион покупки: London
+---------
+ФИО: Coutts  Master. Eden Leslie "Neville"
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 821
+Регион покупки: England Brooklyn: NY
+---------
+ФИО: Coutts  Master. William Loch "William"
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 314
+Регион покупки: England Brooklyn: NY
+---------
+ФИО: Coutts  Mrs. William (Winnie "Minnie" Treanor)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 745
+Регион покупки: England Brooklyn: NY
+---------
+ФИО: Coxon  Mr. Daniel
+Пол: male
+Возраст: 59
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1133
+Регион покупки: Merrill: WI
+---------
+ФИО: Crease  Mr. Ernest James
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1001
+Регион покупки: Bristol: England Cleveland: OH
+---------
+ФИО: Cribb  Miss. Laura Alice
+Пол: female
+Возраст: 17
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1187
+Регион покупки: Bournemouth: England Newark: NJ
+---------
+ФИО: Cribb  Mr. John Hatfield
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 150
+Регион покупки: Bournemouth: England Newark: NJ
+---------
+ФИО: Culumovic  Mr. Jeso
+Пол: male
+Возраст: 17
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 934
+Регион покупки: Austria-Hungary
+---------
+ФИО: Daher  Mr. Shedid
+Пол: male
+Возраст: 55
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1427
+Регион покупки: -
+---------
+ФИО: Dahl  Mr. Karl Edwart
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 316
+Регион покупки: Australia Fingal: ND
+---------
+ФИО: Dahlberg  Miss. Gerda Ulrika
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 391
+Регион покупки: Norrlot: Sweden Chicago: IL
+---------
+ФИО: Dakic  Mr. Branko
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1389
+Регион покупки: Austria
+---------
+ФИО: Daly  Miss. Margaret Marcella "Maggie"
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 597
+Регион покупки: Co Athlone: Ireland New York: NY
+---------
+ФИО: Daly  Mr. Eugene Patrick
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 835
+Регион покупки: Co Athlone: Ireland New York: NY
+---------
+ФИО: Danbom  Master. Gilbert Sigvard Emanuel
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 820
+Регион покупки: Stanton: IA
+---------
+ФИО: Danbom  Mr. Ernst Gilbert
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 1475
+Регион покупки: Stanton: IA
+---------
+ФИО: Danbom  Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 265
+Регион покупки: Stanton: IA
+---------
+ФИО: Danoff  Mr. Yoto
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 711
+Регион покупки: Bulgaria Chicago: IL
+---------
+ФИО: Dantcheff  Mr. Ristiu
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 643
+Регион покупки: Bulgaria Chicago: IL
+---------
+ФИО: Davies  Mr. Alfred J
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 713
+Регион покупки: West Bromwich: England Pontiac: MI
+---------
+ФИО: Davies  Mr. Evan
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 411
+Регион покупки: -
+---------
+ФИО: Davies  Mr. John Samuel
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1080
+Регион покупки: West Bromwich: England Pontiac: MI
+---------
+ФИО: Davies  Mr. Joseph
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1159
+Регион покупки: West Bromwich: England Pontiac: MI
+---------
+ФИО: Davison  Mr. Thomas Henry
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 485
+Регион покупки: Liverpool: England Bedford: OH
+---------
+ФИО: Davison  Mrs. Thomas Henry (Mary E Finck)
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 307
+Регион покупки: Liverpool: England Bedford: OH
+---------
+ФИО: de Messemaeker  Mr. Guillaume Joseph
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1293
+Регион покупки: Tampico: MT
+---------
+ФИО: de Messemaeker  Mrs. Guillaume Joseph (Emma)
+Пол: female
+Возраст: 36
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 779
+Регион покупки: Tampico: MT
+---------
+ФИО: de Mulder  Mr. Theodore
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 375
+Регион покупки: Belgium Detroit: MI
+---------
+ФИО: de Pelsmaeker  Mr. Alfons
+Пол: male
+Возраст: 16
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 385
+Регион покупки: -
+---------
+ФИО: Dean  Master. Bertram Vere
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1149
+Регион покупки: Devon: England Wichita: KS
+---------
+ФИО: Dean  Miss. Elizabeth Gladys "Millvina"
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 799
+Регион покупки: Devon: England Wichita: KS
+---------
+ФИО: Dean  Mr. Bertram Frank
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 933
+Регион покупки: Devon: England Wichita: KS
+---------
+ФИО: Dean  Mrs. Bertram (Eva Georgetta Light)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 901
+Регион покупки: Devon: England Wichita: KS
+---------
+ФИО: Delalic  Mr. Redjo
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1298
+Регион покупки: -
+---------
+ФИО: Demetri  Mr. Marinko
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1130
+Регион покупки: -
+---------
+ФИО: Denkoff  Mr. Mitto
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 531
+Регион покупки: Bulgaria Coon Rapids: IA
+---------
+ФИО: Dennis  Mr. Samuel
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 448
+Регион покупки: -
+---------
+ФИО: Dennis  Mr. William
+Пол: male
+Возраст: 36
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1253
+Регион покупки: -
+---------
+ФИО: Devaney  Miss. Margaret Delia
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 615
+Регион покупки: Kilmacowen: Co Sligo: Ireland New York: NY
+---------
+ФИО: Dika  Mr. Mirko
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 415
+Регион покупки: -
+---------
+ФИО: Dimic  Mr. Jovan
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1138
+Регион покупки: -
+---------
+ФИО: Dintcheff  Mr. Valtcho
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1250
+Регион покупки: -
+---------
+ФИО: Doharr  Mr. Tannous
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 604
+Регион покупки: -
+---------
+ФИО: Dooley  Mr. Patrick
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 389
+Регион покупки: Ireland New York: NY
+---------
+ФИО: Dorking  Mr. Edward Arthur
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 57
+Регион покупки: England Oglesby: IL
+---------
+ФИО: Dowdell  Miss. Elizabeth
+Пол: female
+Возраст: 30
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 767
+Регион покупки: Union Hill: NJ
+---------
+ФИО: Doyle  Miss. Elizabeth
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 741
+Регион покупки: Ireland New York: NY
+---------
+ФИО: Drapkin  Miss. Jennie
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 942
+Регион покупки: London New York: NY
+---------
+ФИО: Drazenoic  Mr. Jozef
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1280
+Регион покупки: Austria Niagara Falls: NY
+---------
+ФИО: Duane  Mr. Frank
+Пол: male
+Возраст: 65
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 417
+Регион покупки: -
+---------
+ФИО: Duquemin  Mr. Joseph
+Пол: male
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 35
+Регион покупки: England Albion: NY
+---------
+ФИО: Dyker  Mr. Adolf Fredrik
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 261
+Регион покупки: West Haven: CT
+---------
+ФИО: Dyker  Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 866
+Регион покупки: West Haven: CT
+---------
+ФИО: Edvardsson  Mr. Gustaf Hjalmar
+Пол: male
+Возраст: 18
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 885
+Регион покупки: Tofta: Sweden Joliet: IL
+---------
+ФИО: Eklund  Mr. Hans Linus
+Пол: male
+Возраст: 16
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1429
+Регион покупки: Karberg: Sweden Jerome Junction: AZ
+---------
+ФИО: Ekstrom  Mr. Johan
+Пол: male
+Возраст: 45
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 971
+Регион покупки: Effington Rut: SD
+---------
+ФИО: Elias  Mr. Dibo
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 975
+Регион покупки: -
+---------
+ФИО: Elias  Mr. Joseph
+Пол: male
+Возраст: 39
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 739
+Регион покупки: Syria Ottawa: ON
+---------
+ФИО: Elias  Mr. Joseph Jr
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 405
+Регион покупки: -
+---------
+ФИО: Elias  Mr. Tannous
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1251
+Регион покупки: Syria
+---------
+ФИО: Elsbury  Mr. William James
+Пол: male
+Возраст: 47
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1130
+Регион покупки: Illinois: USA
+---------
+ФИО: Emanuel  Miss. Virginia Ethel
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1090
+Регион покупки: New York: NY
+---------
+ФИО: Emir  Mr. Farred Chehab
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1262
+Регион покупки: -
+---------
+ФИО: Everett  Mr. Thomas James
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1169
+Регион покупки: -
+---------
+ФИО: Farrell  Mr. James
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1079
+Регион покупки: Aughnacliff: Co Longford: Ireland New York: NY
+---------
+ФИО: Finoli  Mr. Luigi
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 558
+Регион покупки: Italy Philadelphia: PA
+---------
+ФИО: Fischer  Mr. Eberhard Thelander
+Пол: male
+Возраст: 18
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1423
+Регион покупки: -
+---------
+ФИО: Fleming  Miss. Honora
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1113
+Регион покупки: -
+---------
+ФИО: Flynn  Mr. James
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 686
+Регион покупки: -
+---------
+ФИО: Flynn  Mr. John
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1185
+Регион покупки: -
+---------
+ФИО: Foley  Mr. Joseph
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1477
+Регион покупки: Ireland Chicago: IL
+---------
+ФИО: Foley  Mr. William
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1160
+Регион покупки: Ireland
+---------
+ФИО: Foo  Mr. Choong
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1262
+Регион покупки: Hong Kong New York: NY
+---------
+ФИО: Ford  Miss. Doolina Margaret "Daisy"
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 860
+Регион покупки: Rotherfield: Sussex: England Essex Co: MA
+---------
+ФИО: Ford  Miss. Robina Maggie "Ruby"
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 261
+Регион покупки: Rotherfield: Sussex: England Essex Co: MA
+---------
+ФИО: Ford  Mr. Arthur
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 711
+Регион покупки: Bridgwater: Somerset: England
+---------
+ФИО: Ford  Mr. Edward Watson
+Пол: male
+Возраст: 18
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 999
+Регион покупки: Rotherfield: Sussex: England Essex Co: MA
+---------
+ФИО: Ford  Mr. William Neal
+Пол: male
+Возраст: 16
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1172
+Регион покупки: Rotherfield: Sussex: England Essex Co: MA
+---------
+ФИО: Ford  Mrs. Edward (Margaret Ann Watson)
+Пол: female
+Возраст: 48
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 925
+Регион покупки: Rotherfield: Sussex: England Essex Co: MA
+---------
+ФИО: Fox  Mr. Patrick
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 876
+Регион покупки: Ireland New York: NY
+---------
+ФИО: Franklin  Mr. Charles (Charles Fardon)
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 543
+Регион покупки: -
+---------
+ФИО: Gallagher  Mr. Martin
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 935
+Регион покупки: New York: NY
+---------
+ФИО: Garfirth  Mr. John
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1064
+Регион покупки: -
+---------
+ФИО: Gheorgheff  Mr. Stanio
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 1243
+Регион покупки: -
+---------
+ФИО: Gilinski  Mr. Eliezer
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 64
+Регион покупки: -
+---------
+ФИО: Gilnagh  Miss. Katherine "Katie"
+Пол: female
+Возраст: 16
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 830
+Регион покупки: Co Longford: Ireland New York: NY
+---------
+ФИО: Glynn  Miss. Mary Agatha
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 1132
+Регион покупки: Co Clare: Ireland Washington: DC
+---------
+ФИО: Goldsmith  Master. Frank John William "Frankie"
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 979
+Регион покупки: Strood: Kent: England Detroit: MI
+---------
+ФИО: Goldsmith  Mr. Frank John
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1216
+Регион покупки: Strood: Kent: England Detroit: MI
+---------
+ФИО: Goldsmith  Mr. Nathan
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1060
+Регион покупки: Philadelphia: PA
+---------
+ФИО: Goldsmith  Mrs. Frank John (Emily Alice Brown)
+Пол: female
+Возраст: 31
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 653
+Регион покупки: Strood: Kent: England Detroit: MI
+---------
+ФИО: Goncalves  Mr. Manuel Estanslas
+Пол: male
+Возраст: 38
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 604
+Регион покупки: Portugal
+---------
+ФИО: Goodwin  Master. Harold Victor
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 873
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Master. Sidney Leonard
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 398
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Master. William Frederick
+Пол: male
+Возраст: 44
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 922
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Miss. Jessie Allis
+Пол: female
+Возраст: 44
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 826
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Miss. Lillian Amy
+Пол: female
+Возраст: 16
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1300
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Mr. Charles Edward
+Пол: male
+Возраст: 14
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 675
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Mr. Charles Frederick
+Пол: male
+Возраст: 40
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 508
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Goodwin  Mrs. Frederick (Augusta Tyler)
+Пол: female
+Возраст: 43
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1066
+Регион покупки: Wiltshire: England Niagara Falls: NY
+---------
+ФИО: Green  Mr. George Henry
+Пол: male
+Возраст: 51
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 458
+Регион покупки: Dorking: Surrey: England
+---------
+ФИО: Gronnestad  Mr. Daniel Danielsen
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1287
+Регион покупки: Foresvik: Norway Portland: ND
+---------
+ФИО: Guest  Mr. Robert
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 1219
+Регион покупки: -
+---------
+ФИО: Gustafsson  Mr. Alfred Ossian
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 86
+Регион покупки: Waukegan: Chicago: IL
+---------
+ФИО: Gustafsson  Mr. Anders Vilhelm
+Пол: male
+Возраст: 37
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 164
+Регион покупки: Ruotsinphytaa: Finland New York: NY
+---------
+ФИО: Gustafsson  Mr. Johan Birger
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 370
+Регион покупки: Ruotsinphytaa: Finland New York: NY
+---------
+ФИО: Gustafsson  Mr. Karl Gideon
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1497
+Регион покупки: Myren: Sweden New York: NY
+---------
+ФИО: Haas  Miss. Aloisia
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 488
+Регион покупки: -
+---------
+ФИО: Hagardon  Miss. Kate
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 796
+Регион покупки: -
+---------
+ФИО: Hagland  Mr. Ingvald Olai Olsen
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 908
+Регион покупки: -
+---------
+ФИО: Hagland  Mr. Konrad Mathias Reiersen
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 457
+Регион покупки: -
+---------
+ФИО: Hakkarainen  Mr. Pekka Pietari
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 814
+Регион покупки: -
+---------
+ФИО: Hakkarainen  Mrs. Pekka Pietari (Elin Matilda Dolck)
+Пол: female
+Возраст: 24
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1337
+Регион покупки: -
+---------
+ФИО: Hampe  Mr. Leon
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 269
+Регион покупки: -
+---------
+ФИО: Hanna  Mr. Mansour
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1273
+Регион покупки: -
+---------
+ФИО: Hansen  Mr. Claus Peter
+Пол: male
+Возраст: 41
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 131
+Регион покупки: -
+---------
+ФИО: Hansen  Mr. Henrik Juul
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 532
+Регион покупки: -
+---------
+ФИО: Hansen  Mr. Henry Damsgaard
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 759
+Регион покупки: -
+---------
+ФИО: Hansen  Mrs. Claus Peter (Jennie L Howard)
+Пол: female
+Возраст: 45
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 64
+Регион покупки: -
+---------
+ФИО: Harknett  Miss. Alice Phoebe
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 705
+Регион покупки: -
+---------
+ФИО: Harmer  Mr. Abraham (David Lishin)
+Пол: male
+Возраст: 25
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 521
+Регион покупки: -
+---------
+ФИО: Hart  Mr. Henry
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 569
+Регион покупки: -
+---------
+ФИО: Hassan  Mr. Houssein G N
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 730
+Регион покупки: -
+---------
+ФИО: Healy  Miss. Hanora "Nora"
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 861
+Регион покупки: -
+---------
+ФИО: Hedman  Mr. Oskar Arvid
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 526
+Регион покупки: -
+---------
+ФИО: Hee  Mr. Ling
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 1328
+Регион покупки: -
+---------
+ФИО: Hegarty  Miss. Hanora "Nora"
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 1324
+Регион покупки: -
+---------
+ФИО: Heikkinen  Miss. Laina
+Пол: female
+Возраст: 26
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 192
+Регион покупки: -
+---------
+ФИО: Heininen  Miss. Wendla Maria
+Пол: female
+Возраст: 23
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Chrome,Сумма чека: 777
+Регион покупки: -
+---------
+ФИО: Hellstrom  Miss. Hilda Maria
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 619
+Регион покупки: -
+---------
+ФИО: Hendekovic  Mr. Ignjac
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1425
+Регион покупки: -
+---------
+ФИО: Henriksson  Miss. Jenny Lovisa
+Пол: female
+Возраст: 28
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 909
+Регион покупки: -
+---------
+ФИО: Henry  Miss. Delia
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1127
+Регион покупки: -
+---------
+ФИО: Hirvonen  Miss. Hildur E
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 877
+Регион покупки: -
+---------
+ФИО: Hirvonen  Mrs. Alexander (Helga E Lindqvist)
+Пол: female
+Возраст: 22
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1472
+Регион покупки: -
+---------
+ФИО: Holm  Mr. John Fredrik Alexander
+Пол: male
+Возраст: 43
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 830
+Регион покупки: -
+---------
+ФИО: Holthen  Mr. Johan Martin
+Пол: male
+Возраст: 28
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 244
+Регион покупки: -
+---------
+ФИО: Honkanen  Miss. Eliina
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 618
+Регион покупки: -
+---------
+ФИО: Horgan  Mr. John
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 114
+Регион покупки: -
+---------
+ФИО: Howard  Miss. May Elizabeth
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Internet Explorer,Сумма чека: 1158
+Регион покупки: -
+---------
+ФИО: Humblen  Mr. Adolf Mathias Nicolai Olsen
+Пол: male
+Возраст: 42
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 337
+Регион покупки: -
+---------
+ФИО: Hyman  Mr. Abraham
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1326
+Регион покупки: -
+---------
+ФИО: Ibrahim Shawah  Mr. Yousseff
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 942
+Регион покупки: -
+---------
+ФИО: Ilieff  Mr. Ylio
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 106
+Регион покупки: -
+---------
+ФИО: Ilmakangas  Miss. Ida Livija
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1459
+Регион покупки: -
+---------
+ФИО: Ilmakangas  Miss. Pieta Sofia
+Пол: female
+Возраст: 25
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 513
+Регион покупки: -
+---------
+ФИО: Ivanoff  Mr. Kanio
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 273
+Регион покупки: -
+---------
+ФИО: Jalsevac  Mr. Ivan
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 791
+Регион покупки: -
+---------
+ФИО: Jansson  Mr. Carl Olof
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 254
+Регион покупки: -
+---------
+ФИО: Jardin  Mr. Jose Neto
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 918
+Регион покупки: -
+---------
+ФИО: Jensen  Mr. Hans Peder
+Пол: male
+Возраст: 20
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1402
+Регион покупки: -
+---------
+ФИО: Jensen  Mr. Niels Peder
+Пол: male
+Возраст: 48
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 747
+Регион покупки: -
+---------
+ФИО: Jensen  Mr. Svend Lauritz
+Пол: male
+Возраст: 17
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 950
+Регион покупки: -
+---------
+ФИО: Jermyn  Miss. Annie
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1068
+Регион покупки: -
+---------
+ФИО: Johannesen-Bratthammer  Mr. Bernt
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 438
+Регион покупки: -
+---------
+ФИО: Johanson  Mr. Jakob Alfred
+Пол: male
+Возраст: 34
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 642
+Регион покупки: -
+---------
+ФИО: Johansson Palmquist  Mr. Oskar Leander
+Пол: male
+Возраст: 26
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Internet Explorer,Сумма чека: 766
+Регион покупки: -
+---------
+ФИО: Johansson  Mr. Erik
+Пол: male
+Возраст: 22
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 1471
+Регион покупки: -
+---------
+ФИО: Johansson  Mr. Gustaf Joel
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 1218
+Регион покупки: -
+---------
+ФИО: Johansson  Mr. Karl Johan
+Пол: male
+Возраст: 31
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Firefox,Сумма чека: 542
+Регион покупки: -
+---------
+ФИО: Johansson  Mr. Nils
+Пол: male
+Возраст: 29
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 244
+Регион покупки: -
+---------
+ФИО: Johnson  Master. Harold Theodor
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 133
+Регион покупки: -
+---------
+ФИО: Johnson  Miss. Eleanor Ileen
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1133
+Регион покупки: -
+---------
+ФИО: Johnson  Mr. Alfred
+Пол: male
+Возраст: 49
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 435
+Регион покупки: -
+---------
+ФИО: Johnson  Mr. Malkolm Joackim
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 411
+Регион покупки: -
+---------
+ФИО: Johnson  Mr. William Cahoone Jr
+Пол: male
+Возраст: 19
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 1458
+Регион покупки: -
+---------
+ФИО: Johnson  Mrs. Oscar W (Elisabeth Vilhelmina Berg)
+Пол: female
+Возраст: 27
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 321
+Регион покупки: -
+---------
+ФИО: Johnston  Master. William Arthur "Willie"
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Chrome,Сумма чека: 840
+Регион покупки: -
+---------
+ФИО: Johnston  Miss. Catherine Helen "Carrie"
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Firefox,Сумма чека: 1450
+Регион покупки: -
+---------
+ФИО: Johnston  Mr. Andrew G
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Internet Explorer,Сумма чека: 762
+Регион покупки: -
+---------
+ФИО: Johnston  Mrs. Andrew G (Elizabeth "Lily" Watson)
+Пол: female
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 119
+Регион покупки: -
+---------
+ФИО: Jonkoff  Mr. Lalio
+Пол: male
+Возраст: 23
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 1454
+Регион покупки: -
+---------
+ФИО: Jonsson  Mr. Carl
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 1136
+Регион покупки: -
+---------
+ФИО: Jonsson  Mr. Nils Hilding
+Пол: male
+Возраст: 27
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Firefox,Сумма чека: 515
+Регион покупки: -
+---------
+ФИО: Jussila  Miss. Katriina
+Пол: female
+Возраст: 20
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Chrome,Сумма чека: 299
+Регион покупки: -
+---------
+ФИО: Jussila  Miss. Mari Aina
+Пол: female
+Возраст: 21
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Chrome,Сумма чека: 1093
+Регион покупки: -
+---------
+ФИО: Jussila  Mr. Eiriik
+Пол: male
+Возраст: 32
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Firefox,Сумма чека: 280
+Регион покупки: -
+---------
+ФИО: Kallio  Mr. Nikolai Erland
+Пол: male
+Возраст: 17
+Устройство, с которого выполнялась покупка: tablet
+Браузер: Opera,Сумма чека: 1273
+Регион покупки: -
+---------
+ФИО: Kalvik  Mr. Johannes Halvorsen
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: mobile
+Браузер: Opera,Сумма чека: 1136
+Регион покупки: -
+---------
+ФИО: Karaic  Mr. Milan
+Пол: male
+Возраст: 30
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Opera,Сумма чека: 465
+Регион покупки: -
+---------
+ФИО: Karlsson  Mr. Einar Gervasius
+Пол: male
+Возраст: 21
+Устройство, с которого выполнялась покупка: desktop
+Браузер: Internet Explorer,Сумма чека: 275
+Регион покупки: -
+---------
+ФИО: Karlsson  Mr. Julius Konrad Eugen
+Пол: male
+Возраст: 33
+Устройство, с которого выполнялась покупка: laptop
+Браузер: Opera,Сумма чека: 798
+Регион покупки: -
+---------
